@@ -11,18 +11,41 @@ route.post("/", async (req, res) => {
   try {
     var newLab = [];
     for (var i = 0; i < dbLabs.length; i++) {
+      var nameL = dbLabs[i].name;
+      var nameL = nameL.replace("Laboratoire", " ");
+      nameL = nameL.replace("d'Analyses Médicales", " ");
+      nameL = nameL.replace("d'Analyses Médicales", " ");
+      nameL = nameL.replace("Laboratoire d'Analyses Médicales", " ");
+      nameL = nameL.replace("LABORATOIRE", " ");
+      nameL = nameL.replace("Pharmacie", " ");
+      nameL = nameL.trim();
       newLab = new Lab({
         identification: {
-          name: dbLabs[i].name
+          name: nameL
         },
         contact: {
-          tele: dbLabs[i].tele,
-          fax: dbLabs[i].fax,
+          teles: {
+            fix: {
+              fix1: dbLabs[i].tele,
+              fix2: dbLabs[i].tele
+            },
+            mobile: {
+              mobile1: dbLabs[i].tele,
+              mobile2: dbLabs[i].tele
+            },
+            faxe: {
+              faxe1: dbLabs[i].fax,
+              faxe2: dbLabs[i].fax
+            }
+          },
+
           city: dbLabs[i].city,
           adress: dbLabs[i].adress
         }
       });
+
       await newLab.save();
+
       console.log(newLab);
     }
   } catch (err) {

@@ -5,32 +5,57 @@ const LabSchema = new mongoose.Schema({
   //     type: mongoose.Schema.Types.ObjectId,
   //     ref: "user"
   //   },
-  identification: [
-    {
-      name: {
-        type: String
-      },
-      code: {
-        type: Number
-      }
+  identification: {
+    name: {
+      type: String
+    },
+    code: {
+      type: Number
     }
-  ],
-  contact: [
-    {
-      tele: {
-        type: [String]
-      },
-      adress: {
-        type: String
-      },
-      city: {
-        type: String
-      },
-      fax: {
-        type: String
-      }
+  },
+  contact: {
+    teles: {
+      fix: [
+        {
+          fix1: {
+            type: String
+          },
+          fix2: {
+            type: String
+          }
+        }
+      ],
+      mobile: [
+        {
+          mobile1: {
+            type: String
+          },
+          mobile2: {
+            type: String
+          }
+        }
+      ],
+      faxe: [
+        {
+          faxe1: {
+            type: String
+          },
+          faxe2: {
+            type: String
+          }
+        }
+      ]
+    },
+    adress: {
+      type: String
+    },
+    city: {
+      type: String
+    },
+    fax: {
+      type: String
     }
-  ]
+  }
 });
 
 module.exports = Lab = mongoose.model("lab", LabSchema);

@@ -7,7 +7,7 @@
       "LName": "SALAH",
       "name": "Laboratoire IMZOUREN",
       "tele": "05 39 80 60 90",
-      "Fax": "05 39 80 71 49",
+      "fax": "05 39 80 71 49",
       "adress": "N° 119, Avenue Casablanca",
       "city": "IMZOUREN"
     },
@@ -17,7 +17,7 @@
       "LName": "HAMID",
       "name": "Laboratoire AARAB d'Analyses Médicales",
       "tele": "05 36 68 10 26 / 65 56",
-      "Fax": "05 36 68 65 56",
+      "fax": "05 36 68 65 56",
       "adress": "N° 47 Bis, Av. Oummam Al Moutahida (Nations Unies)",
       "city": "OUJDA"
     },
@@ -27,7 +27,7 @@
       "LName": "MIMOUN",
       "name": "Laboratoire JORF",
       "tele": "05 23 34 01 45",
-      "Fax": "05 23 34 37 65",
+      "fax": "05 23 34 37 65",
       "adress": "N° 43, Rue Louis Pasteur",
       "city": "EL JADIDA"
     },
@@ -37,7 +37,7 @@
       "LName": "MOHAMED",
       "name": "Laboratoire IBN SINA",
       "tele": "05 37 68 18 38 / 39",
-      "Fax": "05 37 68 18 37",
+      "fax": "05 37 68 18 37",
       "adress": "N° 39, Av. Ibn Sina, Agdal",
       "city": "RABAT"
     },
@@ -47,7 +47,7 @@
       "LName": "MOHAMED",
       "name": "Centre de Diagnostic Médicpbiologique EL SOFI",
       "tele": "05 22 47 37 84 / 06 68 41 38 41",
-      "Fax": "05 22 47 37 62",
+      "fax": "05 22 47 37 62",
       "adress": "N° 175, RDC, Résidence Houssam Jassim, Rue Boukraâ, Bourgogne",
       "city": "CASABLANCA"
     },
@@ -66,7 +66,7 @@
       "LName": "NAJIB",
       "name": "Laboratoire ABOUABDLILLAH d'Analyses Médicales",
       "tele": "05 35 28 16 33",
-      "Fax": "05 35 28 19 78",
+      "fax": "05 35 28 19 78",
       "adress": "N° 7, Place Zerktouni Taza (VN) - TAZA EL JADIDA",
       "city": "TAZA"
     },
@@ -76,7 +76,7 @@
       "LName": "AMINA",
       "name": "Laboratoire d'Analyses Biomédicales et Scientifiques ALAHBASS",
       "tele": "05 24 43 02 12 /  21 83",
-      "Fax": "05 24 43 42 79",
+      "fax": "05 24 43 42 79",
       "adress": "N° 10, Imm. des Habous, Avenue Hassan II, Bab Doukkala",
       "city": "MARRAKECH"
     },
@@ -86,7 +86,7 @@
       "LName": "HASSAN",
       "name": "Laboratoire EL AMAL",
       "tele": "0523403585 / 23 84",
-      "Fax": "0523721784",
+      "fax": "0523721784",
       "adress": "6, ROUTE DE BOULAOUANE",
       "city": "SETTAT"
     },
@@ -96,7 +96,7 @@
       "LName": "AMINA",
       "name": "L.A.M.ABOUZAID",
       "tele": "0528601500",
-      "Fax": "05286O1500",
+      "fax": "05286O1500",
       "adress": "Bd. Abdellatif SBIHI",
       "city": "TIZNIT"
     },
@@ -106,7 +106,7 @@
       "LName": "YOUSSEF",
       "name": "Laboratoire Dr. ABOUZAID d'Analyses Médicales",
       "tele": "05 28 84 25 26",
-      "Fax": "05 28 82 01 20",
+      "fax": "05 28 82 01 20",
       "adress": "Avenue Hassan II, Immeuble Ifrane 2",
       "city": "AGADIR"
     },
@@ -116,7 +116,7 @@
       "LName": "BACHIR",
       "name": "L.A.M CASTILLA",
       "tele": "0539322156",
-      "Fax": "0539340783",
+      "fax": "0539340783",
       "adress": "Rue de Fès, Imm. N° 137, 1er Etage",
       "city": "TANGER"
     },
@@ -126,7 +126,7 @@
       "LName": "ABDELAZIZ",
       "name": "PHARMACIE LABORATOIRE ACHIFAA",
       "tele": "0524412041",
-      "Fax": "0524413072",
+      "fax": "0524413072",
       "adress": "64, AVENUE YOUSSEF 43000  BEN TACHFINE",
       "city": "EL KELAA DES SRAGHNA"
     },
@@ -136,7 +136,7 @@
       "LName": "MOULAY EL HASSANE",
       "name": "NAKHLAT RYAD",
       "tele": "05 37 56 34 97",
-      "Fax": "05 37 56 34 97",
+      "fax": "05 37 56 34 97",
       "adress": "N° 2, Imm. 2, Les Camélias, Hay Riad",
       "city": "RABAT"
     },
@@ -146,7 +146,7 @@
       "LName": "ZOUHAIR",
       "name": "Laboratoire DJERIFAT d'Analyses Médicales",
       "tele": "05 24 46 46 43",
-      "Fax": "05 24 46 45 96",
+      "fax": "05 24 46 45 96",
       "adress": "N° 2, Av. Kennedy",
       "city": "SAFI"
     },
@@ -156,7 +156,7 @@
       "LName": "MOHAMED",
       "name": "Pharmacie Laboratoire d'Analyses Médicales ESSAADA",
       "tele": "05 39 90 58 41",
-      "Fax": "05 39 90 58 41",
+      "fax": "05 39 90 58 41",
       "adress": "N° 101, Av. 20 Août",
       "city": "KSAR EL KEBIR"
     },
@@ -166,7 +166,7 @@
       "LName": "ABDELLAH",
       "name": "LABORATOIRE PASTEUR D'ANALYSES MEDICALES",
       "tele": "05 36 60 42 72 / 03 30",
-      "Fax": "05 36 33 27 93",
+      "fax": "05 36 33 27 93",
       "adress": "ROUTE PRINCIPAL DE TAOUIMA (39)",
       "city": "NADOR"
     },
@@ -176,7 +176,7 @@
       "LName": "MOHAMED",
       "name": "Laboratoire AKCHOUCH d'Analyses Médicales",
       "tele": "05 28 83 64 74",
-      "Fax": "05 28 83 64 47",
+      "fax": "05 28 83 64 47",
       "adress": "N° 29, Avenue Moulay Ali Chérif",
       "city": "INEZGANE"
     },
@@ -186,7 +186,7 @@
       "LName": "ANASSE",
       "name": "Laboratoire d'Analyses Médicales AL WILAYA",
       "tele": "05 39 32 34 54",
-      "Fax": "05 39 34 16 63",
+      "fax": "05 39 34 16 63",
       "adress": "N° 2, 1er Etage, Immeuble Lina, Boulevard Marche Verte",
       "city": "TANGER"
     },
@@ -196,7 +196,7 @@
       "LName": "YOUSSEF",
       "name": "Laboratoire d'Analyses Médicales",
       "tele": "05 35 51 70 30 / 31",
-      "Fax": "05 35 51 70 02",
+      "fax": "05 35 51 70 02",
       "adress": "N° 24, Avenue Hassan II (V.N)",
       "city": "MEKNES"
     },
@@ -206,7 +206,7 @@
       "LName": "ABDERRAZAK",
       "name": "Laboratoire ARMES d'Analyses Médicales",
       "tele": "05 22 27 19 70 / 86 57",
-      "Fax": "05 22 26 02 47",
+      "fax": "05 22 26 02 47",
       "adress": "N° 55, Avenue Moulay Hassan 1er",
       "city": "CASABLANCA"
     },
@@ -216,7 +216,7 @@
       "LName": "ZAHRA",
       "name": "Laboratoire d'Analyses Médicales CITE AMAL",
       "tele": "05 37 79 50 18",
-      "Fax": "05 37 79 50 18",
+      "fax": "05 37 79 50 18",
       "adress": "N° 57, Bloc D.O, Bd. Massira, YEM,",
       "city": "RABAT"
     },
@@ -226,7 +226,7 @@
       "LName": "MOHAMED",
       "name": "LABO ATLAS",
       "tele": "0522252849",
-      "Fax": "0522250382",
+      "fax": "0522250382",
       "adress": "IMMEUBLE ANGLE Bd.ABDELMOUMEN et rue CHATILLA  1 E",
       "city": "CASABLANCA"
     },
@@ -236,7 +236,7 @@
       "LName": "IHSANE",
       "name": "EXABIO",
       "tele": "05 22 89 66 67 / 52 91 46 / 90 00 64",
-      "Fax": "05 22 91 57 69",
+      "fax": "05 22 91 57 69",
       "adress": "Imm.31, Hay Nassim (à côté de la Gare Nassim), Local N° 2, Lissasfa",
       "city": "CASABLANCA"
     },
@@ -246,7 +246,7 @@
       "LName": "MERIAM",
       "name": "Laboratoire d'Analyses SANTEBIO",
       "tele": "05 22 99 56 22 / 23",
-      "Fax": "05 22 23 42 32",
+      "fax": "05 22 23 42 32",
       "adress": "N° 11, Rue Kadi Iass, Maarif",
       "city": "CASABLANCA"
     },
@@ -256,7 +256,7 @@
       "LName": "MOHAMED",
       "name": "L.A.M.AMARA",
       "tele": "0523304030",
-      "Fax": "0523304320",
+      "fax": "0523304320",
       "adress": "Bd. Mohammed V N°3",
       "city": "MOHAMMEDIA"
     },
@@ -266,7 +266,7 @@
       "LName": "ABDALLAH",
       "name": "Laboratoire d'Analyses Médicales AMRANI",
       "tele": "05 28 84 34 72 / 54 43",
-      "Fax": "05 28 84 27 56",
+      "fax": "05 28 84 27 56",
       "adress": "N° 9, Rue de l'Hôtel de Ville, Imm. Zaitoune, 2ème Etage, (en face Résidence Shems)",
       "city": "AGADIR"
     },
@@ -276,7 +276,7 @@
       "LName": "ABDELAZIZ",
       "name": "LABORATOIRE AMRANI",
       "tele": "05.35.94.11.58",
-      "Fax": "05.35.94.11.58 / 05 35 63 32 22",
+      "fax": "05.35.94.11.58 / 05 35 63 32 22",
       "adress": "3, avenue lalla Myriem ville nouvelle",
       "city": "FES"
     },
@@ -286,7 +286,7 @@
       "LName": "RHALI",
       "name": "Pharmacie Laboratoire d'Anlayses Médicales BAB BOUJLOUD",
       "tele": "05 35 63 32 22 / 05 35 63 51 52",
-      "Fax": "05 35 63 85 86",
+      "fax": "05 35 63 85 86",
       "adress": "Place Bab Boujloud, Imm. Bouyad, N° 3, Fès Médina",
       "city": "FES"
     },
@@ -296,7 +296,7 @@
       "LName": "MOHAMED ALI",
       "name": "MEDICANAL Laboratoire d'Analyses Médicales et Scientifiques",
       "tele": "05 22 31 86 43 / 91 99",
-      "Fax": "05 22 44 11 97",
+      "fax": "05 22 44 11 97",
       "adress": "94, BD. du 11 Janvier",
       "city": "CASABLANCA"
     },
@@ -306,7 +306,7 @@
       "LName": "SAID",
       "name": "LAM ANHICHEM",
       "tele": "0522561585",
-      "Fax": "0522561586",
+      "fax": "0522561586",
       "adress": "N° 122,Av. Akid Allam hay Moulay Rachid2 Bournazil",
       "city": "CASABLANCA"
     },
@@ -316,7 +316,7 @@
       "LName": "YOUSSEF",
       "name": "Laboratoire BENSLIMANE d'Analyses Médicales",
       "tele": "05 23 29 14 05",
-      "Fax": "05 23 29 14 05",
+      "fax": "05 23 29 14 05",
       "adress": "N° 79, Avenue Hassan II",
       "city": "BENSLIMANE"
     },
@@ -326,7 +326,7 @@
       "LName": "LHCEN",
       "name": "Laboratoire d'Analyses Médicales",
       "tele": "05 28 84 35 86",
-      "Fax": "05 28 82 78 00",
+      "fax": "05 28 82 78 00",
       "adress": "N° 25-27, Rue du Président Bekkai, Q.I",
       "city": "AGADIR"
     },
@@ -336,7 +336,7 @@
       "LName": "KARIMA",
       "name": "Laboratoire ERRAHMA d'Analyses Médicales",
       "tele": "0536363042",
-      "Fax": "0536363042",
+      "fax": "0536363042",
       "adress": "N° 720, Avenue Hassan II",
       "city": "AL AAROUI"
     },
@@ -346,7 +346,7 @@
       "LName": "EL MOSTAFA",
       "name": "Laboratoire d'Analyses de Biologie Médicale AZZOUZI",
       "tele": "05 23 40 48 55 / 20 08",
-      "Fax": "05 23 40 61 41",
+      "fax": "05 23 40 61 41",
       "adress": "N° 97, Bd. Mohamed V",
       "city": "SETTAT"
     },
@@ -356,7 +356,7 @@
       "LName": "NAOUAL",
       "name": "LABORATOIRE BIR ANZARANE",
       "tele": "0522258205",
-      "Fax": "0522980911",
+      "fax": "0522980911",
       "adress": "117 Bd. BIR ANZARANE",
       "city": "CASABLANCA"
     },
@@ -366,7 +366,7 @@
       "LName": "HASSAN",
       "name": "Centre de Biologie de SAFI CBS",
       "tele": "05 24 62 69 26",
-      "Fax": "05 24 62 68 94",
+      "fax": "05 24 62 68 94",
       "adress": "N° 20, Angle Avenue de la Liberté et Rue Jamaleddine Afghani (ancien café Olympia)",
       "city": "SAFI"
     },
@@ -376,7 +376,7 @@
       "LName": "BOUCHRA",
       "name": "Laboratoire  du MAROC d'Analyses Médicales",
       "tele": "05 23 48 27 20",
-      "Fax": "05 23 48 27 20 / 97 65",
+      "fax": "05 23 48 27 20 / 97 65",
       "adress": "N° 1 & 2, Avenue Taha Houssein, Quartier Si Salem (à côté du Cinéma VOX)",
       "city": "BENI MELLAL"
     },
@@ -386,7 +386,7 @@
       "LName": "DALAL",
       "name": "Pharmacie Laboratoire TARIK BEN ZIAD",
       "tele": "05 39 94 31 57",
-      "Fax": "05 39 94 31 57",
+      "fax": "05 39 94 31 57",
       "adress": "N° 51, Bd. Mohamed V",
       "city": "TANGER"
     },
@@ -396,7 +396,7 @@
       "LName": "FOUAD",
       "name": "Pharmacie Laboratoire DAR EL BAROUD d'Analyses Médicales et d'Assistance à la Procréation",
       "tele": "05 24 44 58 49 / 05 24 39 16 76 / 06 66 65 91 12",
-      "Fax": "05 24 42 62 01",
+      "fax": "05 24 42 62 01",
       "adress": "N° 276, Av. Mohamed V, Face Koutoubia",
       "city": "MARRAKECH"
     },
@@ -414,7 +414,7 @@
       "LName": "JAMAL",
       "name": "Laboratoire AL KYNDY",
       "tele": "05 22 27 84 74",
-      "Fax": "05 22 27 22 86",
+      "fax": "05 22 27 22 86",
       "adress": "N° 50, Rue des Hôpitaux, 2ème Et.",
       "city": "CASABLANCA"
     },
@@ -424,7 +424,7 @@
       "LName": "FAWZI",
       "name": "Laboratoire AL HOCEIMA d'Analyses Médicales",
       "tele": "05 39 84 13 47",
-      "Fax": "05 39 84 15 25",
+      "fax": "05 39 84 15 25",
       "adress": "N° 94, Av. Hassan II",
       "city": "AL HOCEIMA"
     },
@@ -434,7 +434,7 @@
       "LName": "MOHAMED",
       "name": "L.A.M. DU PARC",
       "tele": "0539955614",
-      "Fax": "0539955614",
+      "fax": "0539955614",
       "adress": "Angle Bd. Moulay Slimane 2 et Rue Ibéria, Quartier Béni-Makada",
       "city": "TANGER"
     },
@@ -444,7 +444,7 @@
       "LName": "JAMAL",
       "name": "Laboratoire AFRIQUIA d'Analyses Biologiques et Médicales",
       "tele": "05 22 56 73 44",
-      "Fax": "05 22 56 73 44",
+      "fax": "05 22 56 73 44",
       "adress": "N° 97, Bd. Driss El Harti, 1er Etage, Cité Djamaâ",
       "city": "CASABLANCA"
     },
@@ -454,7 +454,7 @@
       "LName": "JAMAL EDDINE",
       "name": "Laboratoire DR BELOUCH d'Analyses Médicales",
       "tele": "05 28 77 13 57",
-      "Fax": "05 28 77 13 59",
+      "fax": "05 28 77 13 59",
       "adress": "N° 18, Rue N° 2, Hay Al Fida",
       "city": "GUELMIM"
     },
@@ -464,7 +464,7 @@
       "LName": "OMAR",
       "name": "PHARMACIE LABORATOIRE DE MIDELT",
       "tele": "035582421",
-      "Fax": "035583232",
+      "fax": "035583232",
       "adress": "13, PLACE AL ITTIHAD",
       "city": "MIDELT"
     },
@@ -474,7 +474,7 @@
       "LName": "BAHA",
       "name": "Laboratoire BENAMAR",
       "tele": "05 37 26 29 26 / 27",
-      "Fax": "05 37 26 29 28",
+      "fax": "05 37 26 29 28",
       "adress": "Avenue Hassan II, Rue Laos, Imm.10, Appt.4, Résidence Ex",
       "city": "RABAT"
     },
@@ -501,7 +501,7 @@
       "LName": "MUSTAPHA",
       "name": "Pharmacie Laboratoire IBN ROCHD d'Analyses Médicales",
       "tele": "05 36 61 36 31",
-      "Fax": "05 36 61 34 28",
+      "fax": "05 36 61 34 28",
       "adress": "N° 150, Angle Rue Ibn Sina et Mly Idriss",
       "city": "BERKANE"
     },
@@ -511,7 +511,7 @@
       "LName": "MOSTAPHA",
       "name": "Laboratoire d'Analyses Médicales AL-HIJAZ",
       "tele": "05 36 68 60 50",
-      "Fax": "05 36 68 69 81",
+      "fax": "05 36 68 69 81",
       "adress": "N° 40, Bd. Al Hijaz (en face Lycée de Jeunes Filles)",
       "city": "OUJDA"
     },
@@ -521,7 +521,7 @@
       "LName": "MOHAMED HOUSSEIN",
       "name": "Laboratoire LE CLARIDGE",
       "tele": "05 37 65 40 08",
-      "Fax": "05 37 65 39 97",
+      "fax": "05 37 65 39 97",
       "adress": "Ctr Com.Prest.Exte. N° 8, Rue Ahmed Rifai, Souissi",
       "city": "RABAT"
     },
@@ -531,7 +531,7 @@
       "LName": "MOHAMED",
       "name": "Laboratoire d'Analyses Médicales GENELAB",
       "tele": "05 22 93 10 60 / 61 / 90 59 37 / 06 76 84 52 23",
-      "Fax": "05 22 93 10 61",
+      "fax": "05 22 93 10 61",
       "adress": "Imm. C, Rés. Abouab Oum Rabiaa, Bd. Oued Oum Rabiaa, El Oulfa",
       "city": "CASABLANCA"
     },
@@ -541,7 +541,7 @@
       "LName": "ABDELKRIM",
       "name": "Laboratoire AL KODS",
       "tele": "05 24 62 24 82",
-      "Fax": "05 24 62 88 36",
+      "fax": "05 24 62 88 36",
       "adress": "N° 10, Immeuble Ibn Khaldoune, Av. Ibn Khaldoune",
       "city": "SAFI"
     },
@@ -551,7 +551,7 @@
       "LName": "SAMIRA",
       "name": "Laboratoire d'Analyses Médicales HAY HASSANI",
       "tele": "05 22 89 69 87 / 88 / 93 32 21",
-      "Fax": "05 22 89 69 88",
+      "fax": "05 22 89 69 88",
       "adress": "N° 1,  RDC, Imm. B28, Bd. Ibn Sina , Hay Hassani",
       "city": "CASABLANCA"
     },
@@ -561,7 +561,7 @@
       "LName": "FAIZA",
       "name": "Pharmacie Laboratoire d'Analyses Médicales LA SANTE",
       "tele": "05 39 36 08 32",
-      "Fax": "05 39 36 08 32",
+      "fax": "05 39 36 08 32",
       "adress": "Av. Taric Ibn Ziad Drissia",
       "city": "TANGER"
     },
@@ -571,7 +571,7 @@
       "LName": "LOUBNA",
       "name": "Laboratoire CENTRAL d'Analyses Médicales",
       "tele": "05 23 35 28 35 / 06 61 42 61 36 / 06 62 10 23 41",
-      "Fax": "05 23 35 28 35 / 37 20 88",
+      "fax": "05 23 35 28 35 / 37 20 88",
       "adress": "N° 6 , Rue de Tunis",
       "city": "EL JADIDA"
     },
@@ -581,7 +581,7 @@
       "LName": "NAJIB",
       "name": "Laboratoire CENTRAL d'Analyses Médicales",
       "tele": "05 37 37 98 81 / 84",
-      "Fax": "05 37 36 04 68",
+      "fax": "05 37 36 04 68",
       "adress": "413, Bd Mohammed V, Imm Ouarda (au dessus C.I.H), 2ème Etage, Appt N° 4 et 6",
       "city": "KENITRA"
     },
@@ -591,7 +591,7 @@
       "LName": "WAFAA",
       "name": "L.A.M.LA COLOMBE",
       "tele": "0522993235/55",
-      "Fax": "0522985606",
+      "fax": "0522985606",
       "adress": "39, RUE Abdellah Rajai  MAARIF",
       "city": "CASABLANCA"
     },
@@ -601,7 +601,7 @@
       "LName": "SAID",
       "name": "Labo MOHAMED V",
       "tele": "05 22 22 05 32",
-      "Fax": "05 22 22 05 32",
+      "fax": "05 22 22 05 32",
       "adress": "N° 23, Bd. Mohamed V, Rue Brahim El Amraoui",
       "city": "CASABLANCA"
     },
@@ -611,7 +611,7 @@
       "LName": "MAMMA",
       "name": "MBLAB Laboratoire BENCHELLAL d'Analyses Médicales et Biologiques",
       "tele": "05 36 33 44 40",
-      "Fax": "05 36 33 44 27",
+      "fax": "05 36 33 44 27",
       "adress": "N° 11, Rue Zaire, Quartier Administratif",
       "city": "NADOR"
     },
@@ -621,7 +621,7 @@
       "LName": "HASSAN",
       "name": "Laboratoire d'Analyses Médicales POLYBIO",
       "tele": "05 37 77 70 83 / 15 05",
-      "Fax": "05 37 68 33 90",
+      "fax": "05 37 68 33 90",
       "adress": "N° 7, Rue Oued Souss, Agdal",
       "city": "RABAT"
     },
@@ -631,7 +631,7 @@
       "LName": "YAHYA",
       "name": "Laboratoire MANDARONA d'Analyses Médicales",
       "tele": "05 22 52 83 88",
-      "Fax": "05 22 21 92 41",
+      "fax": "05 22 21 92 41",
       "adress": "N° 679, Bd. Al Qods",
       "city": "CASABLANCA"
     },
@@ -641,7 +641,7 @@
       "LName": "KARIM",
       "name": "LABORATOIRE D'ANALYSES MEDICALES",
       "tele": "0537708082",
-      "Fax": "0537701240",
+      "fax": "0537701240",
       "adress": "4 RUE TIHAMA  ",
       "city": "RABAT"
     },
@@ -651,7 +651,7 @@
       "LName": "AZZEDDINE",
       "name": "LABORATOIRE  BIOMER",
       "tele": "0522274438",
-      "Fax": "0522260421",
+      "fax": "0522260421",
       "adress": "7 Av. Hassan II passage Tazi  ",
       "city": "CASABLANCA"
     },
@@ -670,7 +670,7 @@
       "LName": "ABDELKRIM",
       "name": "L.A.M.BADR",
       "tele": "0522430368",
-      "Fax": "0522260101",
+      "fax": "0522260101",
       "adress": "Résidence Saïda, N° 15, Rue Abou Abbas, Bd. Zerktouni, 1er Etage, Bourgogne",
       "city": "CASABLANCA"
     },
@@ -680,7 +680,7 @@
       "LName": "NAJIA",
       "name": "Laboratoire Médical YASMINE",
       "tele": "05 37 20 20 63",
-      "Fax": "05 37 20 20 08",
+      "fax": "05 37 20 20 08",
       "adress": "N° 1, Résidence Essaada, Porte N° 2, Avenue Mohammed V",
       "city": "RABAT"
     },
@@ -690,7 +690,7 @@
       "LName": "ANOUAR",
       "name": "Centre de Biologie Médicale",
       "tele": "05 24 42 19 98",
-      "Fax": "05 24 43 05 62",
+      "fax": "05 24 43 05 62",
       "adress": "N° 29, Appt. 18, Rue Yougoslavie, Guéliz",
       "city": "MARRAKECH"
     },
@@ -700,7 +700,7 @@
       "LName": "SANAE",
       "name": "Laboratoire BIN EL OUIDANE",
       "tele": "05 37 77 24 78",
-      "Fax": "05 37 77 24 78",
+      "fax": "05 37 77 24 78",
       "adress": "N° 15, Angle Av. Bin El Ouidane et Rue El Gansra, Agdal",
       "city": "RABAT"
     },
@@ -710,7 +710,7 @@
       "LName": "SOUMEYA",
       "name": "Laboratoire d'Analyses de Biologie Médicale DU GOLF",
       "tele": "05 37 75 52 57",
-      "Fax": "05 37 75 85 57 / 59",
+      "fax": "05 37 75 85 57 / 59",
       "adress": "Av. Mohamed VI, Route des Zaers, Souissi, 7,5 KM",
       "city": "RABAT"
     },
@@ -720,7 +720,7 @@
       "LName": "KHALID",
       "name": "Laboratoire du PARC d'Analyses Médicales et Scientifiques",
       "tele": "05 22 26 67 26",
-      "Fax": "05 22 26 67 26",
+      "fax": "05 22 26 67 26",
       "adress": "N° 11, Rue Liautnant Bergé",
       "city": "CASABLANCA"
     },
@@ -730,7 +730,7 @@
       "LName": "EL HOUSSINE",
       "name": "Laboratoire ABDELMOUMEN d'Analyses Médicales L.A.M.A",
       "tele": "05 22 23 18 72 / 25 80 62 / 58 97",
-      "Fax": "05 22 25 61 57",
+      "fax": "05 22 25 61 57",
       "adress": "N° 116/120, Bd. Abdelmoumen, 1er Etage",
       "city": "CASABLANCA"
     },
@@ -740,7 +740,7 @@
       "LName": "ABDELMALEK",
       "name": "Laboratoire International d'Analyses Médicales et Scientifiques LIAMS",
       "tele": "05 39 93 74 52 / 84 77",
-      "Fax": "05 39 93 88 56",
+      "fax": "05 39 93 88 56",
       "adress": "Angle Avenue de Fès et 29 Rue Mohamed Abdou (en face de Cinéma le Paris)",
       "city": "TANGER"
     },
@@ -750,7 +750,7 @@
       "LName": "MOHAMED MOUHSSINE",
       "name": "Laboratoire d'Analyses Médicales LABOFAR",
       "tele": "05 22 75 62 85",
-      "Fax": "05 22 75 62 86",
+      "fax": "05 22 75 62 86",
       "adress": "N° 34, Rue 3, Amal 3, Sidi Bernoussi",
       "city": "CASABLANCA"
     },
@@ -760,7 +760,7 @@
       "LName": "RACHID",
       "name": "Laboratoire d'Analyses Médicales BENNASSER",
       "tele": "05 23 48 30 50",
-      "Fax": "05 23 48 73 76",
+      "fax": "05 23 48 73 76",
       "adress": "N° 21, AVvenue Hassan II",
       "city": "BENI MELLAL"
     },
@@ -770,7 +770,7 @@
       "LName": "GHIZLANE",
       "name": "Laboratoire MOULAY YOUSSEF",
       "tele": "05 22 49 13 01 / 02",
-      "Fax": "05 22 49 13 03",
+      "fax": "05 22 49 13 03",
       "adress": "Angle Bd. My Youssef et Hassan 1er, 2ème Etage, Résidence",
       "city": "CASABLANCA"
     },
@@ -788,7 +788,7 @@
       "LName": "MEHDI",
       "name": "Laboratoire BANDOENG",
       "tele": "05 22 30 42 28 / 31 92 60",
-      "Fax": "05 22 44 50 85",
+      "fax": "05 22 44 50 85",
       "adress": "N° 11, Rue Mohamed Diouri",
       "city": "CASABLANCA"
     },
@@ -807,7 +807,7 @@
       "LName": "LARBI",
       "name": "Laboratoire LABORACINE d'Analyses Médicales",
       "tele": "05 22 36 23 54 / 74 44 / 06 61 57 13 48",
-      "Fax": "05 22 39 92 27",
+      "fax": "05 22 39 92 27",
       "adress": "N° 18, Rue Oumaima Sayeh, Espace Maryamo, Q. Racine, Bureau N° 2",
       "city": "CASABLANCA"
     },
@@ -817,7 +817,7 @@
       "LName": "NORA",
       "name": "Laboratoire CHIFAA",
       "tele": "05377412060/06325",
-      "Fax": "0537740075",
+      "fax": "0537740075",
       "adress": "N° 4, Sigal Sigalon",
       "city": "TEMARA"
     },
@@ -827,7 +827,7 @@
       "LName": "YOUNES",
       "name": "PRECILAB Laboratoire d'Analyses Médicales",
       "tele": "05 37 73 57 17 / 18",
-      "Fax": "05 37 73 57 21",
+      "fax": "05 37 73 57 21",
       "adress": "Angle Avenue Mohamed V/ Rue du Caire N° 2",
       "city": "RABAT"
     },
@@ -837,7 +837,7 @@
       "LName": "ABDELLAH",
       "name": "Laboratoire International d'Analyses Biomédicales (LIAB)",
       "tele": "05 22 42 39 60 / 55 / 70",
-      "Fax": "05 22 26 22 09",
+      "fax": "05 22 26 22 09",
       "adress": "N° 101, Boulevard Abdelmoumen",
       "city": "CASABLANCA"
     },
@@ -847,7 +847,7 @@
       "LName": "RACHID",
       "name": "Laboratoire d'Analyses Médicales BIODIAGNOSTICA",
       "tele": "05 39 93 29 69",
-      "Fax": "05 39 93 97 23",
+      "fax": "05 39 93 97 23",
       "adress": "Imm. Venezuela, N° 89, Bd. Moussa Ben Noussair",
       "city": "TANGER"
     },
@@ -857,7 +857,7 @@
       "LName": "MOUNA",
       "name": "Laboratoire MOHAMMED ZEFZAF",
       "tele": "05 22 70 96 96",
-      "Fax": "05 22 70 96 76",
+      "fax": "05 22 70 96 76",
       "adress": "N° 23, Immeuble Snoussi 7, Bd Mohamed Zefzaf, Attacharouk, Sidi Moumen",
       "city": "CASABLANCA"
     },
@@ -876,7 +876,7 @@
       "LName": "NOUREDDINE",
       "name": "PHARMACIE LABORATOIRE BADR",
       "tele": "0537593381",
-      "Fax": "0537593381",
+      "fax": "0537593381",
       "adress": "RUE 9 N° 19  ",
       "city": "SIDI KACEM"
     },
@@ -886,7 +886,7 @@
       "LName": "RIZLANE",
       "name": "LABORATOIRE Emile ZOLA",
       "tele": "052224 20 05",
-      "Fax": "052224 20 03",
+      "fax": "052224 20 03",
       "adress": "195,Bd. Emile ZOLA N°7 3ième étage  ",
       "city": "CASABLANCA"
     },
@@ -896,7 +896,7 @@
       "LName": "AZZEDINE",
       "name": "Pharmacie Laboratoire LA LIBERTE",
       "tele": "05 24 44 69 51",
-      "Fax": "05 24 42 32 29",
+      "fax": "05 24 42 32 29",
       "adress": "N° 1,Av. My Hassan, Place La Liberté, (Face Jet d'eau), Imm. Berdai",
       "city": "MARRAKECH"
     },
@@ -906,7 +906,7 @@
       "LName": "KHALID",
       "name": "Pharmacie Laboratoire DISPENSAIRE JAMILA 4",
       "tele": "05 22 38 40 50 / 60",
-      "Fax": "05 22 29 14 60",
+      "fax": "05 22 29 14 60",
       "adress": "N° 110, Rue Bachir Belhoussine, Jamila 4, Sbata",
       "city": "CASABLANCA"
     },
@@ -924,7 +924,7 @@
       "LName": "NARJISSE",
       "name": "Laboratoire Central de Rhamna",
       "tele": "05 24 31 80 00 / 08",
-      "Fax": "05 24 31 80 08",
+      "fax": "05 24 31 80 08",
       "adress": "N° 542, 1er Etage, Lot El Bour, Hay El Farah, Av. M679, Bd. Al Qods",
       "city": "BEN GUERIR"
     },
@@ -934,7 +934,7 @@
       "LName": "ABDELMAJID",
       "name": "SYBABIO",
       "tele": "05 24 40 09 98",
-      "Fax": "05 24 40 09 69",
+      "fax": "05 24 40 09 69",
       "adress": "Imm. N° 4, Appt. 4, Plcae Msalla, Lot. Syba 3,",
       "city": "MARRAKECH"
     },
@@ -944,7 +944,7 @@
       "LName": "DRISS",
       "name": "Laboratoire BOUAZZAOUI d'Analyses Médicales",
       "tele": "05 37 73 43 90",
-      "Fax": "05 37 73 43 90",
+      "fax": "05 37 73 43 90",
       "adress": "N° 46, Avenue Al Maghrib Al Arabi",
       "city": "RABAT"
     },
@@ -954,7 +954,7 @@
       "LName": "NABIL",
       "name": "Laboratoire SAISS d'Analyses Médicales et Biologiques",
       "tele": "05 35 61 82 04",
-      "Fax": "05 35 61 79 71",
+      "fax": "05 35 61 79 71",
       "adress": "N° 81, RDC, Lot. Al Ouafae, Hay Narjis Al Amal, Route de Sefrou",
       "city": "FES"
     },
@@ -964,7 +964,7 @@
       "LName": "AYOUB",
       "name": "Laboratoire d'Analyses Médicales RIAD TETOUAN",
       "tele": "05 39 32 45 32 / 46 32",
-      "Fax": "05 39 32 45 32",
+      "fax": "05 39 32 45 32",
       "adress": "N° 16, Angle Bd. Mly Youssef et Résidence Ouchikh",
       "city": "TANGER"
     },
@@ -974,7 +974,7 @@
       "LName": "MILOUD",
       "name": "Grande Pharmacie Laboratoire BOUHDOUD Analyses Médicales et Biologiques",
       "tele": "05 28 84 29 89 / 47 20",
-      "Fax": "05 28 84 38 22",
+      "fax": "05 28 84 38 22",
       "adress": "Immeuble M1, 1er Etage, Av. Moulay Abdellah (près de la Poste)",
       "city": "AGADIR"
     },
@@ -984,7 +984,7 @@
       "LName": "SMAIL",
       "name": "Laboratoire ANOUAL",
       "tele": "05 24 43 50 34",
-      "Fax": "05 24 43 09 82",
+      "fax": "05 24 43 09 82",
       "adress": "N° 3, Rés. Andalous, Rue Tariq Ibn Ziad",
       "city": "MARRAKECH"
     },
@@ -994,7 +994,7 @@
       "LName": "ABDELOUAHHAB",
       "name": "LABORATOIRE BOUKHIMA",
       "tele": "0522319161",
-      "Fax": "0522449003",
+      "fax": "0522449003",
       "adress": "117 (ex.228) bd. Rahal Meskini",
       "city": "CASABLANCA"
     },
@@ -1004,7 +1004,7 @@
       "LName": "ABDENNASSER",
       "name": "L.A.M.ENNASR",
       "tele": "0537503029",
-      "Fax": "0537503029",
+      "fax": "0537503029",
       "adress": "HAY SALAM BLOC 2 N°32  ",
       "city": "SIDI SLIMANE"
     },
@@ -1014,7 +1014,7 @@
       "LName": "DALILA",
       "name": "Laboratoire AL ATLAS",
       "tele": "05 24 44 80 82",
-      "Fax": "05 24 44 80 82",
+      "fax": "05 24 44 80 82",
       "adress": "N° 7, 1er Etage, Angle Avenue Abdelkrim El Khattabi et Boulevard Prince My Abdellah",
       "city": "MARRAKECH"
     },
@@ -1024,7 +1024,7 @@
       "LName": "ABDERRAHMANE",
       "name": "Laboratoire MANDARONA d'Analyses Médicales",
       "tele": "05 22 52 83 88",
-      "Fax": "05 22 21 92 41",
+      "fax": "05 22 21 92 41",
       "adress": "N° 679, Bd. El Qods",
       "city": "CASABLANCA"
     },
@@ -1034,7 +1034,7 @@
       "LName": "YOUSSEF",
       "name": "Pharmacie Laboratoire d'Analyses Médicales AL HAYAT",
       "tele": "05 37 80 54 32",
-      "Fax": "05 37 80 08 56",
+      "fax": "05 37 80 08 56",
       "adress": "Hay Salam, Imm. 6, N° 2, Façade Sud",
       "city": "SALE"
     },
@@ -1052,7 +1052,7 @@
       "LName": "SALOUA",
       "name": "Pharmacie Laboratoire YACOUB EL MANSOUR",
       "tele": "05 24 44 70 60",
-      "Fax": "05 24 43 78 99",
+      "fax": "05 24 43 78 99",
       "adress": "N° 31, Av. Yacoub El Mansour, Guéliz",
       "city": "MARRAKECH"
     },
@@ -1062,7 +1062,7 @@
       "LName": "ABDELOUAHED",
       "name": "Pharmacie Laboratoire IBN YASSINE",
       "tele": "05 23 32 34 60 / 64 01",
-      "Fax": "05 23 32 64 01",
+      "fax": "05 23 32 64 01",
       "adress": "Angle Rue de Fès et Bd. Bir Anzarane",
       "city": "MOHAMMEDIA"
     },
@@ -1072,7 +1072,7 @@
       "LName": "MY ABDELHAFID",
       "name": "LABORATOIRE M'HAMID",
       "tele": "0524360440",
-      "Fax": "0524360540",
+      "fax": "0524360540",
       "adress": "N°595,QUARTIER M'HAMID _x000D_\nAV TAFILALET",
       "city": "MARRAKECH"
     },
@@ -1082,7 +1082,7 @@
       "LName": "MOHAMED",
       "name": "Pharmacie Laboratoire ROUTE DE TAZA d'Analyses de Biologie Médicale",
       "tele": "05 36 51 11 55",
-      "Fax": "05 36 51 18 79 / 05 36 70 21 11",
+      "fax": "05 36 51 18 79 / 05 36 70 21 11",
       "adress": "Route de Taza (après la Foire), Bus 8, Hay Si Lakhdar",
       "city": "OUJDA"
     },
@@ -1092,7 +1092,7 @@
       "LName": "ABDERRAHIM",
       "name": "Laboratoire BOUZOUBAA d'Analyses Médicales et Scientifiques",
       "tele": "05 22 27 19 20 / 26 57 43",
-      "Fax": "05 22 22 94 25",
+      "fax": "05 22 22 94 25",
       "adress": "Résidence Tarfaya, N° 11, Bd. Zerktouni",
       "city": "CASABLANCA"
     },
@@ -1102,7 +1102,7 @@
       "LName": "MUSTAPHA",
       "name": "Pharmacie Laboratoire DE L'ORIENTAL",
       "tele": "0536614470",
-      "Fax": "0536619101",
+      "fax": "0536619101",
       "adress": "N°49,rue SULTAN MOULAY M'HAMED",
       "city": "BERKANE"
     },
@@ -1112,7 +1112,7 @@
       "LName": "RACHIDA",
       "name": "Pharmacie Laboratoire FILALI d'Analyses Médicales",
       "tele": "05 35 62 53 66 / 30 89",
-      "Fax": "05 35 65 39 88",
+      "fax": "05 35 65 39 88",
       "adress": "N° 16, Imm. Kadmiri, Avenue Slaoui (à côté du Cinéma Astor)",
       "city": "FES"
     },
@@ -1122,7 +1122,7 @@
       "LName": "ABDENNACER",
       "name": "LABORATOIRE A.M.   ASSOUNNAH",
       "tele": "0523321257",
-      "Fax": "0523327713",
+      "fax": "0523327713",
       "adress": "93,DERB AL FAHT BD. DE LA RESISTANCE  EL ALIA",
       "city": "MOHAMMEDIA"
     },
@@ -1132,7 +1132,7 @@
       "LName": "LOUBNA",
       "name": "Laboratoire Dr. CHAOUI - AIT MELLOUL",
       "tele": "05 28 24 31 54",
-      "Fax": "05 28 24 31 54",
+      "fax": "05 28 24 31 54",
       "adress": "N° 16-17, Immeuble Commercial, Av. Hassan II",
       "city": "AIT MELLOUL"
     },
@@ -1150,7 +1150,7 @@
       "LName": "ABDELKRIM",
       "name": "Pharmacie Laboratoire NAKHIL d'Analyses Médicales",
       "tele": "05 24 44 71 35 / 76 57",
-      "Fax": "05 24 44 88 43",
+      "fax": "05 24 44 88 43",
       "adress": "Imm. Nakhil, Avenue Yaacoub El Mansour, Guéliz",
       "city": "MARRAKECH"
     },
@@ -1160,7 +1160,7 @@
       "LName": "SAID",
       "name": "ALMASJID",
       "tele": "0536332855",
-      "Fax": "0536333207",
+      "fax": "0536333207",
       "adress": "N°41 BD YOUSSEF BEB TACHFINE Ap. N°5",
       "city": "NADOR"
     },
@@ -1170,7 +1170,7 @@
       "LName": "ANAS",
       "name": "Laboratoire IBN ROCHD",
       "tele": "05 37 74 77 24",
-      "Fax": "05 37 74 19 66",
+      "fax": "05 37 74 19 66",
       "adress": "RDC LOT. N° 4, Rue Iran, Avenue Hassan II",
       "city": "TEMARA"
     },
@@ -1180,7 +1180,7 @@
       "LName": "HASSANE",
       "name": "Laboratoire CENTRAL d'Analyses Médicales et Scientifiques",
       "tele": "05 35 62 39 33",
-      "Fax": "05 35 62 08 34",
+      "fax": "05 35 62 08 34",
       "adress": "N° 119, Boulevard Mohamed V",
       "city": "FES"
     },
@@ -1198,7 +1198,7 @@
       "LName": "MIYA",
       "name": "L.A.M.STENDHAL",
       "tele": "0522255977",
-      "Fax": "0522255976",
+      "fax": "0522255976",
       "adress": "Angle Av. Stendal, Boulevard Georges Sand, Résidence Benbar, 2ème Etage, Entrée A, Maarif",
       "city": "CASABLANCA"
     },
@@ -1208,7 +1208,7 @@
       "LName": "NADIA",
       "name": "MEDIOUNA",
       "tele": "0522441817",
-      "Fax": "0522445764",
+      "fax": "0522445764",
       "adress": "Rés. Casa,1, agle.bd.la Résistance  et rue Strasbo",
       "city": "CASABLANCA"
     },
@@ -1218,7 +1218,7 @@
       "LName": "FOUZIA",
       "name": "Laboratoire BIOLAM d'Analyses Médicales",
       "tele": "05 22 26 72 67 / 27 92 35",
-      "Fax": "05 22 29 56 48",
+      "fax": "05 22 29 56 48",
       "adress": "N° 314, Rue Mustapha El Maâni, Mers Sultan",
       "city": "CASABLANCA"
     },
@@ -1228,7 +1228,7 @@
       "LName": "SALAH EDDINE",
       "name": "Laboratoire AYOUCHE",
       "tele": "05 28 82 39 01",
-      "Fax": "05 28 82 44 53",
+      "fax": "05 28 82 44 53",
       "adress": "Imm. Kabbaj, Place des Taxis (Q.I.)",
       "city": "AGADIR"
     },
@@ -1238,7 +1238,7 @@
       "LName": "EZZAT",
       "name": "Laboratoire LA PLAYA",
       "tele": "05 39 68 80 07 / 08",
-      "Fax": "05 39 68 80 07",
+      "fax": "05 39 68 80 07",
       "adress": "5, Avenue la Plage, Imm. Derdabi",
       "city": "MARTIL"
     },
@@ -1248,7 +1248,7 @@
       "LName": "RANDA",
       "name": "Laboratoire d'Analyses Médicales DERDABI",
       "tele": "05 39 71 17 48",
-      "Fax": "05 39 71 17 49",
+      "fax": "05 39 71 17 49",
       "adress": "Quartier Scolaire, Avenue MohamedV, Résidence Assafae, Rez-de-chaussée, N° 3",
       "city": "TETOUAN"
     },
@@ -1258,7 +1258,7 @@
       "LName": "ABDELMAJID",
       "name": "Pharmacie Laboratoire AL FARABI d'Analyses Médicales",
       "tele": "05 24 62 16 76 /  38 10",
-      "Fax": "05 24 62 16 76",
+      "fax": "05 24 62 16 76",
       "adress": "N° 63, Rue Kennedy",
       "city": "SAFI"
     },
@@ -1268,7 +1268,7 @@
       "LName": "MOSTAFA",
       "name": "Laboratoire OUJDA d'Aanalyses Médicales",
       "tele": "05 36 68 30 68",
-      "Fax": "05 36 68 30 68",
+      "fax": "05 36 68 30 68",
       "adress": "Bd. Idriss Al Akbar, Imm. Boukarabila, 1er Et. (à côté d'Hôtel Riad)",
       "city": "OUJDA"
     },
@@ -1278,7 +1278,7 @@
       "LName": "MOHAMED AZIZ",
       "name": "Laboratoire Dr. EL ALLALI d'Analyses Médicales",
       "tele": "05 28 84 33 84",
-      "Fax": "05 28 84 33 84 / 82 87 58",
+      "fax": "05 28 84 33 84 / 82 87 58",
       "adress": "N° 61 Bis, Rue de Marrakech,  Quartier Industriel",
       "city": "AGADIR"
     },
@@ -1296,7 +1296,7 @@
       "LName": "ALI AMIR",
       "name": "L.A.M. NAKHIL",
       "tele": "0537750301",
-      "Fax": "0537631324",
+      "fax": "0537631324",
       "adress": "N°115,av. Houmane El Fétouaki-Aviation-",
       "city": "RABAT"
     },
@@ -1315,7 +1315,7 @@
       "LName": "RACHID",
       "name": "Laboratoire d'Analyses Médicales EL AYADI",
       "tele": "05 36 61 39 39",
-      "Fax": "05 36 61 49 49",
+      "fax": "05 36 61 49 49",
       "adress": "N° 32, Bd. Mohamed V, 1er Etage, Hay Hassani",
       "city": "BERKANE"
     },
@@ -1333,7 +1333,7 @@
       "LName": "AHMED",
       "name": "Laboratoire BELVEDERE d'Analyses Médicales et Scientifiques",
       "tele": "05 22 24 28 55 / 40 73 63",
-      "Fax": "05 22 24 06 41 / 05 22",
+      "fax": "05 22 24 06 41 / 05 22",
       "adress": "Résidence Zine Al Mahaba, Angle Bd. Mohammed V et Place Sidi Mohamed Belvédère, en face de la Gare Casa Voyageurs",
       "city": "CASABLANCA"
     },
@@ -1343,7 +1343,7 @@
       "LName": "NOUREDDINE",
       "name": "Laboratoire Médical IBERIA",
       "tele": "05 39 93 70 21 / 06 68 35 32 57",
-      "Fax": "05 39 93 68 38",
+      "fax": "05 39 93 68 38",
       "adress": "N° 2, Place Koweit (Ibéria)",
       "city": "TANGER"
     },
@@ -1353,7 +1353,7 @@
       "LName": "AHMED",
       "name": "Laboratoire d'Analyses Médicales EL FOUNINI",
       "tele": "05 35 52 43 87 / 27 82 / 35 66",
-      "Fax": "05 35 52 15 81",
+      "fax": "05 35 52 15 81",
       "adress": "N° 7, 1er Etage, Av. Hassan II, Place du Marché Central",
       "city": "MEKNES"
     },
@@ -1363,7 +1363,7 @@
       "LName": "ISMAIL",
       "name": "LABO",
       "tele": "05 35 58 79 05 / 38 38 24",
-      "Fax": "05 35 58 79 04",
+      "fax": "05 35 58 79 04",
       "adress": "185,av.AL MASSIRA AL KHADRA AMALOU IGHRIBEN N°197",
       "city": "KHENIFRA"
     },
@@ -1373,7 +1373,7 @@
       "LName": "SAID",
       "name": "Laboratoire ORBIO d'Analyses Médicales",
       "tele": "05 22 90 90 44",
-      "Fax": "05 22 90 90 42",
+      "fax": "05 22 90 90 42",
       "adress": "N° 199, Bd. Oum Rabii, Oulfa",
       "city": "CASABLANCA"
     },
@@ -1383,7 +1383,7 @@
       "LName": "MOHAMED",
       "name": "Laboratoire CENTRAL d'Analyses Médicales de Mohammedia",
       "tele": "0523312031",
-      "Fax": "0523310146",
+      "fax": "0523310146",
       "adress": "Rue Abderrahmane Serghini, Imm. El Hore N° 1",
       "city": "MOHAMMEDIA"
     },
@@ -1393,7 +1393,7 @@
       "LName": "ABDELILLAH",
       "name": "Laboratoire d'Analyses Médicales de TANGER",
       "tele": "05 39 34 21 75",
-      "Fax": "05 39 94 33 96",
+      "fax": "05 39 94 33 96",
       "adress": "N° 19 Bis, Rue Omar Ben Khattab, 1er Etage, N° 3 (en face Tribunal 1er Inst.)",
       "city": "TANGER"
     },
@@ -1403,7 +1403,7 @@
       "LName": "MOHAMED SAID",
       "name": "Laboratoire d'Analyses Médicales LABOMEDIC",
       "tele": "05 22 27 66 24 / 73",
-      "Fax": "05 22 27 66 24",
+      "fax": "05 22 27 66 24",
       "adress": "N° 462, Rue Mustapha El Maani, Rond Point, Hassan II",
       "city": "CASABLANCA"
     },
@@ -1413,7 +1413,7 @@
       "LName": "ABDELLAH",
       "name": "Laboratoire ABACHOUAIB DOUKKALI",
       "tele": "05 22 82 32 82",
-      "Fax": "05 22 82 32 83",
+      "fax": "05 22 82 32 83",
       "adress": "N° 437, Boulevard Aba Chouaib Doukkali, Hay El Farah",
       "city": "CASABLANCA"
     },
@@ -1430,7 +1430,7 @@
       "FName": "EL IBRAHIMI",
       "LName": "OUAFA",
       "name": "Laboratoire LES MOUAHHAD",
-      "Fax": "0537206888",
+      "fax": "0537206888",
       "adress": "Appt 2, N° 5 rue ZAGORA QUARTIER HASSAN",
       "city": "RABAT"
     },
@@ -1440,7 +1440,7 @@
       "LName": "YOUNES",
       "name": "Laboratoire BIOCENTRE",
       "tele": "05 24 45 80 81",
-      "Fax": "05 24 45 70 79",
+      "fax": "05 24 45 70 79",
       "adress": "N° 50, Résidence les 8 Palmiers, Rue Ibn Aicha",
       "city": "MARRAKECH"
     },
@@ -1450,7 +1450,7 @@
       "LName": "ABDELLATIF",
       "name": "Laboratoire EL KAISSOUNI d'Analyses Médicales",
       "tele": "05 28 85 30 92",
-      "Fax": "05 28 85 41 66",
+      "fax": "05 28 85 41 66",
       "adress": "Quartier Benyara,  Jamaa Lakbir",
       "city": "TAROUDANNT"
     },
@@ -1460,7 +1460,7 @@
       "LName": "JAMAL",
       "name": "Laboratoire JAMAL d'Analyses Médicales",
       "tele": "05 28 33 39 75",
-      "Fax": "05 28 33 39 75",
+      "fax": "05 28 33 39 75",
       "adress": "N° 1, Av. des FAR, Ccité Ouad Dehhab, les Chalets",
       "city": "INEZGANE"
     },
@@ -1470,7 +1470,7 @@
       "LName": "MOHAMED",
       "name": "Pharmacie et Centre d'Analyses Médicales et Scientifiques Spécialisées Dr. EL KAMAR",
       "tele": "05 28 89 13 75 / 99 73 20",
-      "Fax": "05 28 89 13 75 / 29 68",
+      "fax": "05 28 89 13 75 / 29 68",
       "adress": "N° 135 -139, Av. de la Mecque",
       "city": "LAAYOUNE"
     },
@@ -1480,7 +1480,7 @@
       "LName": "FADHEL",
       "name": "Laboratoire CAMC",
       "tele": "05 22 39 25 00",
-      "Fax": "05 22 39 25 88",
+      "fax": "05 22 39 25 88",
       "adress": "N° 3, Rue Ibnou Younes, Maarif",
       "city": "CASABLANCA"
     },
@@ -1490,7 +1490,7 @@
       "LName": "AMAL",
       "name": "Pharmacie Laboratoire YAFA",
       "tele": "0522758677",
-      "Fax": "0522768439",
+      "fax": "0522768439",
       "adress": "BD.M'BAREK BEN BOUBKER HAMMADI  IM52-54 MOUBARAKA",
       "city": "CASABLANCA"
     },
@@ -1500,7 +1500,7 @@
       "LName": "HASSAN",
       "name": "Laboratoire d'Analyses Médicales ASSALAMA",
       "tele": "05 28 82 82 08 / 06 56 90 34 38",
-      "Fax": "05 28 82 82 16",
+      "fax": "05 28 82 82 16",
       "adress": "N° 4, Rue d'Oujda, Alkassaria 1-14, Immeuble N'ouzour Quartier Industriel",
       "city": "AGADIR"
     },
@@ -1510,7 +1510,7 @@
       "LName": "ALI SALEM",
       "name": "Laboratoire Dr. EL MADKOURI d'Analyses Médicales",
       "tele": "05 28 24 24 05",
-      "Fax": "05 28 24 24 06",
+      "fax": "05 28 24 24 06",
       "adress": "N° A8,  Imm. Rizk, Av. Hassan II, Route de Tiznit",
       "city": "AIT MELLOUL"
     },
@@ -1520,7 +1520,7 @@
       "LName": "JALIL",
       "name": "Laboratoire d'Analyses Médicales LABIOMED",
       "tele": "05 22 48 13 51 / 36",
-      "Fax": "05 22 48 13 96",
+      "fax": "05 22 48 13 96",
       "adress": "N° 122, Bd. d'Anfa, Quartier Racine",
       "city": "CASABLANCA"
     },
@@ -1530,7 +1530,7 @@
       "LName": "ABDELLAH",
       "name": "Laboratoire IBN TOFAIL",
       "tele": "05 24 43 03 79",
-      "Fax": "05 24 43 03 65",
+      "fax": "05 24 43 03 65",
       "adress": "N° 57, Rue Ibn Aicha, Résidence Nfis, Appt. N° 12, Guéliz",
       "city": "MARRAKECH"
     },
@@ -1549,7 +1549,7 @@
       "LName": "MOULAY ABDELAZIZ",
       "name": "L.A.M.et Scientiques EL MGHARI",
       "tele": "0528239765",
-      "Fax": "0528239765",
+      "fax": "0528239765",
       "adress": "N°5-6 AV HASSAN 1 IMM AL WIFAQ CITE DAKHLA",
       "city": "AGADIR"
     },
@@ -1559,7 +1559,7 @@
       "LName": "ABDELHAY",
       "name": "Laboratoire TADDART",
       "tele": "05 22 83 66 11 / 88 33",
-      "Fax": "05 22 85 55 22",
+      "fax": "05 22 85 55 22",
       "adress": "N° 189, Boulevard Hachimi Filali (ex Route Taddart)",
       "city": "CASABLANCA"
     },
@@ -1569,7 +1569,7 @@
       "LName": "ABDELAZIZ",
       "name": "Laboratoire Central d'Analyses Médicales et Scientifiques Spécialisées LACAMSS",
       "tele": "05 28 24 16 16",
-      "Fax": "05 28 30 81 50",
+      "fax": "05 28 30 81 50",
       "adress": "Angle Av. Hassan II et Rue de l'Hôpital",
       "city": "AIT MELLOUL"
     },
@@ -1579,7 +1579,7 @@
       "LName": "HASSAN",
       "name": "L.A.M.",
       "tele": "0539809000",
-      "Fax": "0539809000",
+      "fax": "0539809000",
       "adress": "N°9 Avenue HASSAN II",
       "city": "TARGUIST"
     },
@@ -1589,7 +1589,7 @@
       "LName": "FATIMA ZAHRA",
       "name": "Laboratoire d'Analyses de Biologie Médicale Le PONT",
       "tele": "05 24 34 37 11",
-      "Fax": "05 24 49 48 43",
+      "fax": "05 24 49 48 43",
       "adress": "Hay Al Massira I, Lot. D 66 (à côté du pont et de la B.C.M)",
       "city": "MARRAKECH"
     },
@@ -1599,7 +1599,7 @@
       "LName": "SAIDA",
       "name": "Laboratoire d'Analyses Médicales AGDAL",
       "tele": "05 35 94 05 28",
-      "Fax": "05 35 94 05 28",
+      "fax": "05 35 94 05 28",
       "adress": "N° 54, Avenue Hassan II, Immeuble Mauritania, à côté de l'Agence Royal Air Maroc",
       "city": "FES"
     },
@@ -1609,7 +1609,7 @@
       "LName": "RAHMA",
       "name": "Laboratoire d'Analyses Médicales EL ATLAS",
       "tele": "05 37 29 74 74",
-      "Fax": "05 37 69 39 37",
+      "fax": "05 37 69 39 37",
       "adress": "N° 204, Av. Sidi Med. Ben Abdellah, Secteur C, C.Y.M",
       "city": "RABAT"
     },
@@ -1619,7 +1619,7 @@
       "LName": "IMAD",
       "name": "Centre de Biologie AL WIFAK",
       "tele": "05 37 40 30 30",
-      "Fax": "05 37 40 30 36",
+      "fax": "05 37 40 30 36",
       "adress": "Lotissement Al Wifaq, Rez de Chaussée, Lot. N° 3124, Bd. Docteur Abdelkrim El Khatib, Quartier Al Wifak",
       "city": "TEMARA"
     },
@@ -1637,7 +1637,7 @@
       "LName": "FARID",
       "name": "Pharmacie Laboratoire d'Analyses Médicales BAB EL MAKAM",
       "tele": "05 35 66 17 65 / 93 94 44",
-      "Fax": "05 35 68 24 79",
+      "fax": "05 35 68 24 79",
       "adress": "N° 4, Rue Youssef Ibn Tachfine, Setti Messaouda (Route de Fès)",
       "city": "SEFROU"
     },
@@ -1647,7 +1647,7 @@
       "LName": "MOULAY AHMED",
       "name": "Laboratoire BAB DOUKKALA",
       "tele": "05 24 44 63 63 / 08 08 41 32 63",
-      "Fax": "05 24 44 63 63",
+      "fax": "05 24 44 63 63",
       "adress": "Bd. Prince My Abdellah, Imm. Bab Doukkala, Bloc A, Appt N° 04, 1er Etage",
       "city": "MARRAKECH"
     },
@@ -1657,7 +1657,7 @@
       "LName": "HICHAM",
       "name": "Laboratoire HAFIR d'Analyses Médicales",
       "tele": "05 23 43 83 12",
-      "Fax": "05 23 43 57 24",
+      "fax": "05 23 43 57 24",
       "adress": "N° 12, Hay Lkoucem, Rue 28",
       "city": "FQUIH BEN SALAH"
     },
@@ -1675,7 +1675,7 @@
       "LName": "HANIE",
       "name": "Laboratoire FASSI-FEHRI d'Analyses Médicales",
       "tele": "05 39 70 38 98 / 71 96 78",
-      "Fax": "05 39 70 38 45",
+      "fax": "05 39 70 38 45",
       "adress": "N° 6, Rue Chakib Arsalan",
       "city": "TETOUAN"
     },
@@ -1685,7 +1685,7 @@
       "LName": "FAOUZIA",
       "name": "PHARMACIE LABO DES FACULTES",
       "tele": "0537773361",
-      "Fax": "0537736611",
+      "fax": "0537736611",
       "adress": "52,CHARIA OMAR IBN AL KHATTAB  AGDAL",
       "city": "RABAT"
     },
@@ -1695,7 +1695,7 @@
       "LName": "ABDELILAH",
       "name": "PHA LABO EL KARAOUIYNE",
       "tele": "0535640749",
-      "Fax": "0535733071",
+      "fax": "0535733071",
       "adress": "67,RUE KHALID IBN WALID  ",
       "city": "FES"
     },
@@ -1705,7 +1705,7 @@
       "LName": "MIREILLE",
       "name": "Laboratoire CHARLES NICOLLE d'Analyses Médicales",
       "tele": "05 22 49 26 74 / 98",
-      "Fax": "05 22 49 26 71",
+      "fax": "05 22 49 26 71",
       "adress": "Résidence Pasteur - 21, Place Louis Pasteur, Appt 6, 2ème Etage, Quartier des Hôpitaux",
       "city": "CASABLANCA"
     },
@@ -1715,7 +1715,7 @@
       "LName": "JAMAL",
       "name": "Laboratoire ANOUAL de Radio-Immuno-Analyse",
       "tele": "0522860336",
-      "Fax": "0522860497",
+      "fax": "0522860497",
       "adress": "119, Bd.d'Alexandrie Q.des Hôpitaux",
       "city": "CASABLANCA"
     },
@@ -1725,7 +1725,7 @@
       "LName": "BENAMAR",
       "name": "Laboratoire FELLAHI",
       "tele": "05 22 85 29 19 / 26 76 / 78",
-      "Fax": "05 22 85 28 06",
+      "fax": "05 22 85 28 06",
       "adress": "23-25, Rue Abdeslam Khattabi (ex. Lisbonne), Av.2 Mars",
       "city": "CASABLANCA"
     },
@@ -1735,7 +1735,7 @@
       "LName": "MOUNIR",
       "name": "Centre de Biologie Médicale GLAB",
       "tele": "05 22 86 09 10 / 55 07 / 06 68 43 91 31",
-      "Fax": "05 22 86 08 95",
+      "fax": "05 22 86 08 95",
       "adress": "N° 93, Boulevard Anoual, Quartier des Hôpitaux",
       "city": "CASABLANCA"
     },
@@ -1745,7 +1745,7 @@
       "LName": "MUSTAPHA",
       "name": "Laboratoire GHERRAS d'Analyses Médicales",
       "tele": "05 35 52 30 03",
-      "Fax": "05 35 51 50 65 / 52 33 11",
+      "fax": "05 35 51 50 65 / 52 33 11",
       "adress": "Av. Mohammed V, Angle Rue Atlas, 1er Etage, Imm. Khamlich",
       "city": "MEKNES"
     },
@@ -1755,7 +1755,7 @@
       "LName": "OMAR",
       "name": "Laboratoire GHERRAS d'Analyses Médicales",
       "tele": "05 35 52 30 03",
-      "Fax": "05 35 51 50 65 / 52 33 11",
+      "fax": "05 35 51 50 65 / 52 33 11",
       "adress": "Av. Mohammed V, Angle Rue Atlas, 1er Etage, Imm. Khamlich",
       "city": "MEKNES"
     },
@@ -1765,7 +1765,7 @@
       "LName": "KHALID",
       "name": "Laboratoire GHRISSI",
       "tele": "05 35 96 40 25",
-      "Fax": "05 35 60 88 01",
+      "fax": "05 35 60 88 01",
       "adress": "Imm. N° 5, Avenue 6, Hay Essaada, Ali 7",
       "city": "FES"
     },
@@ -1775,7 +1775,7 @@
       "LName": "MOHAMMED",
       "name": "Laboratoire GUESSOUS d'Analyses Médicales",
       "tele": "05 35 64 13 48 / 73 44 56",
-      "Fax": "05 35 64 17 76",
+      "fax": "05 35 64 17 76",
       "adress": "N° 53, Avenue des F.A.R",
       "city": "FES"
     },
@@ -1785,7 +1785,7 @@
       "LName": "SAIDA",
       "name": "Laboratoire d'Analyses Médicales BENAMOUR-GUESSOUS",
       "tele": "05 22 98 92 15 / 99 15 30",
-      "Fax": "05 22 98 92 37",
+      "fax": "05 22 98 92 37",
       "adress": "N° 44, Rue Abou Abdellah Nafii, Mâarif",
       "city": "CASABLANCA"
     },
@@ -1795,7 +1795,7 @@
       "LName": "TAOUFIK",
       "name": "Laboratoire CAMC",
       "tele": "05 22 39 25 00",
-      "Fax": "05 22 39 25 88",
+      "fax": "05 22 39 25 88",
       "adress": "N° 3, Rue Ibnou Younes, Maarif",
       "city": "CASABLANCA"
     },
@@ -1805,7 +1805,7 @@
       "LName": "ABDELKEBIR",
       "name": "Laboratoire CENTRAL d'Analyses Médicales",
       "tele": "05 37 37 98 81 / 84",
-      "Fax": "05 37 36 04 68",
+      "fax": "05 37 36 04 68",
       "adress": "413, Bd Mohammed V, Imm Ouarda (au dessus C.I.H), 2ème Etage, Appt N° 4 et 6",
       "city": "KENITRA"
     },
@@ -1815,7 +1815,7 @@
       "LName": "KHALID",
       "name": "Laboratoire AL FARABI d'Analyses Médicales",
       "tele": "05 36 68 58 10",
-      "Fax": "05 36 68 76 35",
+      "fax": "05 36 68 76 35",
       "adress": "Rue Errazi, Résidence El Morabitine N° 3 (en Face Hôpital Al Farabi)",
       "city": "OUJDA"
     },
@@ -1825,7 +1825,7 @@
       "LName": "SADIK",
       "name": "LABO",
       "tele": "0535790103",
-      "Fax": "0535572134",
+      "fax": "0535572134",
       "adress": "2, RUE AIT KHILFA",
       "city": "ERRACHIDIA"
     },
@@ -1835,7 +1835,7 @@
       "LName": "ADIL",
       "name": "Laboratoire HAIZOUN d'Analyses Médicales",
       "tele": "05 22 28 10 61 / 06 23 37 45 75",
-      "Fax": "05 22 28 10 61",
+      "fax": "05 22 28 10 61",
       "adress": "N° 396, Bd. El Fida, 1er Etage",
       "city": "CASABLANCA"
     },
@@ -1845,7 +1845,7 @@
       "LName": "KHADIJA",
       "name": "PH. LABORATOIRE IBN KHALDOUN",
       "tele": "0535524728",
-      "Fax": "0535524728",
+      "fax": "0535524728",
       "adress": "176, Avenue des F.A.R.",
       "city": "MEKNES"
     },
@@ -1855,7 +1855,7 @@
       "LName": "FARIDA",
       "name": "Pharmacie Laboratoire d'Analyses Médicales IBN TACHFINE",
       "tele": "05 22 30 01 69",
-      "Fax": "05 22 30 07 66",
+      "fax": "05 22 30 07 66",
       "adress": "N° 79, Bd. Ibn Tachefine",
       "city": "CASABLANCA"
     },
@@ -1865,7 +1865,7 @@
       "LName": "ABDERRAHIM",
       "name": "Laboratoire DU SUD d'Analyses Médicales",
       "tele": "05 24 44 88 00 / 97 92",
-      "Fax": "05 24 44 78 03",
+      "fax": "05 24 44 78 03",
       "adress": "N° 52, Bd. Moulay Rachid, Guéliz (près Cinéma Palace)",
       "city": "MARRAKECH"
     },
@@ -1884,7 +1884,7 @@
       "LName": "NOUREDDINE",
       "name": "Laboratoire HAMZAOUI d'Analyses Médicales",
       "tele": "05 22 28 40 65",
-      "Fax": "05 22 28 40 46",
+      "fax": "05 22 28 40 46",
       "adress": "N° 64, Bd My Idriss 1er (Rez-de-Chaussée), Angle Bd 2 Mars (Attenant à la Commune Urbaine Mers Sultan)",
       "city": "CASABLANCA"
     },
@@ -1894,7 +1894,7 @@
       "LName": "ABDALLAH",
       "name": "Laboratoire HARGUIL",
       "tele": "05 28 84 80 03",
-      "Fax": "05 28 84 15 60",
+      "fax": "05 28 84 15 60",
       "adress": "Avenue Kennedy - Talborjt (face à la Mosquée)",
       "city": "AGADIR"
     },
@@ -1904,7 +1904,7 @@
       "LName": "FATHALLAH",
       "name": "Laboratoire BIOMEDICA",
       "tele": "05 22 22 16 89",
-      "Fax": "05 22 27 99 13",
+      "fax": "05 22 27 99 13",
       "adress": "N° 160, Rue Mustapha El Maâni",
       "city": "CASABLANCA"
     },
@@ -1914,7 +1914,7 @@
       "LName": "ABDELHAMID",
       "name": "Laboratoire HASSOUNI",
       "tele": "05 37 29 84 86",
-      "Fax": "05 37 29 84 86",
+      "fax": "05 37 29 84 86",
       "adress": "N° 65, Ex .200, Av. Mohamed Ben Abdallah",
       "city": "RABAT"
     },
@@ -1924,7 +1924,7 @@
       "LName": "ABDERRAHMAN",
       "name": "PHARMACIE  LABO EL FATH",
       "tele": "0522280682",
-      "Fax": "0522815052",
+      "fax": "0522815052",
       "adress": "RUE 33 N° 94 BIN LAMDOUN",
       "city": "CASABLANCA"
     },
@@ -1967,7 +1967,7 @@
       "LName": "YOUSSEF",
       "name": "Laboratoire ASSALAM MEDIGENES d'Analyses Médicales et Scientifiques",
       "tele": "05 22 56 51 02 / 05 22 37 02 03",
-      "Fax": "05 22 56 51 03",
+      "fax": "05 22 56 51 03",
       "adress": "Bd. Akid El Allam, Résidence Annakhla, Imm. A5, 1er Etage, N° 2 et 3, Quartier My Rachid 2 (Bournazel)",
       "city": "CASABLANCA"
     },
@@ -1985,7 +1985,7 @@
       "LName": "MOULAY RACHID",
       "name": "IBN SINA",
       "tele": "05 23 47 20 86",
-      "Fax": "05 23 47 20 86",
+      "fax": "05 23 47 20 86",
       "adress": "Lot. N° 44, Quartier Souta, Bd. Mohamed VI  SOUK SEBT",
       "city": "FQUIH BEN SALAH"
     },
@@ -1995,7 +1995,7 @@
       "LName": "ALI",
       "name": "Laboratoire POLYLAB",
       "tele": "05 37 75 68 58",
-      "Fax": "05 37 54 93 6",
+      "fax": "05 37 54 93 6",
       "adress": "Avenue Bir Kacem, Souissi",
       "city": "RABAT"
     },
@@ -2014,7 +2014,7 @@
       "LName": "DALLAL",
       "name": "Laboratoire la Villette",
       "tele": "05 22 60 04 06 / 40 09",
-      "Fax": "05 22 60 04 09",
+      "fax": "05 22 60 04 09",
       "adress": "N° 423, 1er étage, appt 2, Bd. Ibn Tachfine, la Villette",
       "city": "CASABLANCA"
     },
@@ -2032,7 +2032,7 @@
       "LName": "SOUAD",
       "name": "Laboratoire d'Analyses Médicales et Scientifiques",
       "tele": "05 22 27 52 92 / 68 09",
-      "Fax": "05 22 22 15 14 / 27 82 29",
+      "fax": "05 22 22 15 14 / 27 82 29",
       "adress": "N° 48, Boulevard Zerktouni",
       "city": "CASABLANCA"
     },
@@ -2042,7 +2042,7 @@
       "LName": "YAHIA",
       "name": "Pharmacie Laboratoire d'Analyses Médicales MODERNE",
       "tele": "05 36 61 26 39 / 09 81",
-      "Fax": "05 36 61 22 12",
+      "fax": "05 36 61 22 12",
       "adress": "N° 78, Bd. Mohammed V, Hay Hassani",
       "city": "BERKANE"
     },
@@ -2052,7 +2052,7 @@
       "LName": "HASSAN",
       "name": "Laboratoire AVEROES d'Analyses Médicales",
       "tele": "05 22 23 43 22",
-      "Fax": "05 22 99 16 37",
+      "fax": "05 22 99 16 37",
       "adress": "Rés. Mawlid IV, Appt. A25, Bd. Abdelmoumen",
       "city": "CASABLANCA"
     },
@@ -2062,7 +2062,7 @@
       "LName": "MOHAMED",
       "name": "Laboratoire PANORAMIQUE",
       "tele": "05 22 52 29 61",
-      "Fax": "05 22 52 26 59",
+      "fax": "05 22 52 26 59",
       "adress": "N° 197, Bd. Panoramique, Résidence Panoramique II, Ain Choc",
       "city": "CASABLANCA"
     },
@@ -2072,7 +2072,7 @@
       "LName": "FATIMA",
       "name": "Pha.labo.du Complex .Sportif",
       "tele": "0522360507",
-      "Fax": "0522395373",
+      "fax": "0522395373",
       "adress": "63, RUE Mamoun Mohamed-Maarif",
       "city": "CASABLANCA"
     },
@@ -2091,7 +2091,7 @@
       "LName": "AMAL",
       "name": "Laboratoire d'Analyses Médicales KARIMLAB",
       "tele": "05 22 93 21 20 / 05 22 89 43 24",
-      "Fax": "05 22 93 21 31",
+      "fax": "05 22 93 21 31",
       "adress": "N° 485, Bd. Oum Rabii, El Oulfa",
       "city": "CASABLANCA"
     },
@@ -2119,7 +2119,7 @@
       "LName": "TAYEB",
       "name": "Laboratoire SAADA d'Analyses Médicales",
       "tele": "05 35 60 42 60",
-      "Fax": "05 35 60 42 31",
+      "fax": "05 35 60 42 31",
       "adress": "Av. Saint Louis, Quartier Zaza, Rue Sindiane N° 82,  Saâda",
       "city": "FES"
     },
@@ -2129,7 +2129,7 @@
       "LName": "IMANE",
       "name": "Laboratoire IBN ROCHD",
       "tele": "05 37 74 77 24",
-      "Fax": "05 37 74 19 66",
+      "fax": "05 37 74 19 66",
       "adress": "RDC LOT. N° 4, Rue Iran, Avenue Hassan II",
       "city": "TEMARA"
     },
@@ -2139,7 +2139,7 @@
       "LName": "FOUAD",
       "name": "Laboratoire SLAOUI d'Analyses Médicales",
       "tele": "05 39 70 03 45",
-      "Fax": "05 39 70 18 25",
+      "fax": "05 39 70 18 25",
       "adress": "N° 14, Avenue de la Mauritanie",
       "city": "TETOUAN"
     },
@@ -2149,7 +2149,7 @@
       "LName": "AMINA",
       "name": "Laboratoire d'Analyses Médicales du GHARB",
       "tele": "05 37 37 21 17",
-      "Fax": "05 37 37 38 14",
+      "fax": "05 37 37 38 14",
       "adress": "Angle Av. Med. V et Rue Sebta, 1er Etage, Appt N° 6 et 7",
       "city": "KENITRA"
     },
@@ -2159,7 +2159,7 @@
       "LName": "LATIFA",
       "name": "Pharmacie Laboratoire BEN M'SICK d'Analyses Médicales",
       "tele": "05 22 37 01 25 / 00 06",
-      "Fax": "05 22 59 55 77",
+      "fax": "05 22 59 55 77",
       "adress": "N° 182-186, Bd. Mohamed Bouziane, Hay Salama III",
       "city": "CASABLANCA"
     },
@@ -2169,7 +2169,7 @@
       "LName": "AHMED",
       "name": "AL QODS Laboratoire d'Analyses Médicales",
       "tele": "05 23 34 92 92",
-      "Fax": "05 23 35 95 71",
+      "fax": "05 23 35 95 71",
       "adress": "N° 413, Lot. Widad",
       "city": "SIDI BENNOUR"
     },
@@ -2179,7 +2179,7 @@
       "LName": "ABDELKADER",
       "name": "Pharmacie Laboratoire MAJORELLE",
       "tele": "05 24 44 64 69",
-      "Fax": "05 24 43 29 85",
+      "fax": "05 24 43 29 85",
       "adress": "Angle Av. Allal El Fassi et Yacoub El Mansour",
       "city": "MARRAKECH"
     },
@@ -2189,7 +2189,7 @@
       "LName": "ABDERRAHIM",
       "name": "Laboratoire SIDI OTHMANE",
       "tele": "05 22 57 64 50 / 37 18 39 / 06 60 11 27 32",
-      "Fax": "05 22 37 11 90",
+      "fax": "05 22 37 11 90",
       "adress": "N° 31, Av. Abi Houraira, Sidi Othman",
       "city": "CASABLANCA"
     },
@@ -2199,7 +2199,7 @@
       "LName": "SAMIRA",
       "name": "Laboratoire d'Analyses  Médicales MIJHARLAB",
       "tele": "05 22 58 35 56 / 06 59 53 60 66",
-      "Fax": "05 22 58 18 05",
+      "fax": "05 22 58 18 05",
       "adress": "Centre Commercial Soufiane, Lot. chaima, Bd. Abou Bakr El Kadiri, Sidi Maarouf",
       "city": "CASABLANCA"
     },
@@ -2209,7 +2209,7 @@
       "LName": "ABDELMAJID",
       "name": "Laboratoire EL QODS d'Analyses Médicales et Scientifiques",
       "tele": "05 36 68 73 96 / 68 02 96",
-      "Fax": "05 36 70 08 72",
+      "fax": "05 36 70 08 72",
       "adress": "Imm. Kada, Bd. Mohamed V (face Hôtel Oujda)  N° 3",
       "city": "OUJDA"
     },
@@ -2219,7 +2219,7 @@
       "LName": "EL HASSANE",
       "name": "Centre de Biologie Maroc",
       "tele": "05 35 94 14 14",
-      "Fax": "05 35 94 14 15",
+      "fax": "05 35 94 14 15",
       "adress": "Av. Lalla Asmae, Imm. Echcharki, 1er Etage, Appt. 5 (VN)",
       "city": "FES"
     },
@@ -2229,7 +2229,7 @@
       "LName": "NOUREDDINE",
       "name": "Laboratoire DARAA d'Analyses Médicales",
       "tele": "05 24 88 51 51",
-      "Fax": "05 24 88 51 51",
+      "fax": "05 24 88 51 51",
       "adress": "Kissariate Al Mouahidine, Rue Al Mouahidine, N° 22, Lot. de Centre",
       "city": "OUARZAZATE"
     },
@@ -2239,7 +2239,7 @@
       "LName": "SEDDIK",
       "name": "KENILAB Laboratoire d'Analyses Médicales",
       "tele": "05 37 37 90 68",
-      "Fax": "05 37 37 90 68",
+      "fax": "05 37 37 90 68",
       "adress": "N° 161, Av. Med V, Appartement 3A, Batiment Oapam, B.P N° 3",
       "city": "KENITRA"
     },
@@ -2249,7 +2249,7 @@
       "LName": "TAOUFIK",
       "name": "Pharmacie Laboratoire AL FIRDAOUS",
       "tele": "05 37 37 23 81 / 19 78",
-      "Fax": "05 37 37 23 81",
+      "fax": "05 37 37 23 81",
       "adress": "N° 322, Avenue Mohamed V",
       "city": "KENITRA"
     },
@@ -2259,7 +2259,7 @@
       "LName": "OUAFFA",
       "name": "Laboratoire d'Analyses Médicales SIDI LARBI BOUJEMAA",
       "tele": "05 37 36 39 03",
-      "Fax": "05 37 36 39 03",
+      "fax": "05 37 36 39 03",
       "adress": "N° 272, Bd. Mohamed V",
       "city": "KENITRA"
     },
@@ -2269,7 +2269,7 @@
       "LName": "ASMAE",
       "name": "Laboratoire d'Analyses Médicales et Scientifiques AL FARABI",
       "tele": "05 22 44 19 77 / 78",
-      "Fax": "05 22 44 19 78",
+      "fax": "05 22 44 19 78",
       "adress": "N° 51, Bd. Rahal El Meskini",
       "city": "CASABLANCA"
     },
@@ -2279,7 +2279,7 @@
       "LName": "AHMED AZIZ",
       "name": "L.A.M. MAMOUNIA",
       "tele": "0537722424",
-      "Fax": "0537722888",
+      "fax": "0537722888",
       "adress": "Av.Residence Mamounia Entrée A appart.13  ",
       "city": "RABAT"
     },
@@ -2289,7 +2289,7 @@
       "LName": "SAAD",
       "name": "BIOCLAS Laboratoires d'Analyses Spécialisées",
       "tele": "05 22 25 69 37",
-      "Fax": "05 22 25 69 37",
+      "fax": "05 22 25 69 37",
       "adress": "Immeuble Renault, Angle Bd. Abdelmoumen et 82 Rue Soumaya",
       "city": "CASABLANCA"
     },
@@ -2299,7 +2299,7 @@
       "LName": "FARIDA",
       "name": "Laboratoire LAMALMI d'Analyses de Biologie Médicale",
       "tele": "05 37 23 00 21 / 22",
-      "Fax": "05 37 23 00  22",
+      "fax": "05 37 23 00  22",
       "adress": "N° 13, Bloc T2, Avenue Al Kifah, Kamra, C.Y.M",
       "city": "RABAT"
     },
@@ -2309,7 +2309,7 @@
       "LName": "ASMAE",
       "name": "Laboratoire d'Analyses Médicales ABDELMOUMEN",
       "tele": "05 36 68 74 74 / 06 62 55 71 77",
-      "Fax": "05 36 68 74 75",
+      "fax": "05 36 68 74 75",
       "adress": "Angle Rue Jakarta et Rue Lieutenant Belhoucin, Rés. Saidi, 1er Etage, Appt. 2",
       "city": "OUJDA"
     },
@@ -2319,7 +2319,7 @@
       "LName": "ZOUHEIR",
       "name": "Laboratoire d'Analyses Médicales LAMZIBRI",
       "tele": "05 37 78 21 31",
-      "Fax": "05 37 78 59 31",
+      "fax": "05 37 78 59 31",
       "adress": "Avenue Benaaboud, El Mellah Jdid (au dessus Labo Photo Oriental)",
       "city": "SALE"
     },
@@ -2329,7 +2329,7 @@
       "LName": "REDOUAN",
       "name": "Laboratoire d'Analyses de Biologie Médicale BABFES",
       "tele": "05 37 32 01 78",
-      "Fax": "05 37 32 01 45",
+      "fax": "05 37 32 01 45",
       "adress": "1er Etage, Angle Avenue Mohamed V et Rue 300, Arssat El Qaidi (Babfes)",
       "city": "KENITRA"
     },
@@ -2339,7 +2339,7 @@
       "LName": "ABDERRAHMANE",
       "name": "Laboratoire BIOLAB",
       "tele": "05 37 72 08 35",
-      "Fax": "05 37 72 08 74",
+      "fax": "05 37 72 08 74",
       "adress": "Rue Beyrouth, Imm. Essaada, Entrée N° 4",
       "city": "RABAT"
     },
@@ -2349,7 +2349,7 @@
       "LName": "HICHAM",
       "name": "Laboratoire ARMES d'Analyses Médicales",
       "tele": "05 22 27 19 70 / 86 57",
-      "Fax": "05 22 26 02 47",
+      "fax": "05 22 26 02 47",
       "adress": "N° 55, Avenue Moulay Hassan 1er",
       "city": "CASABLANCA"
     },
@@ -2359,7 +2359,7 @@
       "LName": "MOHAMED",
       "name": "Laboratoire LEBBAR d'Analyses Médicales",
       "tele": "05 37 72 44 65 / 71",
-      "Fax": "05 37 73 41 66",
+      "fax": "05 37 73 41 66",
       "adress": "N° 3, Av. Amir My Abdellah, Appt N°11, Hassan",
       "city": "RABAT"
     },
@@ -2369,7 +2369,7 @@
       "LName": "ABDELAZIZ",
       "name": "Laboratoire d'Analyses Médicales LABIOMED",
       "tele": "05 22 48 13 51 / 36",
-      "Fax": "05 22 48 13 96",
+      "fax": "05 22 48 13 96",
       "adress": "N° 122,Bd. D'anfa",
       "city": "CASABLANCA"
     },
@@ -2388,7 +2388,7 @@
       "LName": "AMAL",
       "name": "Laboratoire de Biologie SEBTA d'Analyses Médicales et Spécialisées",
       "tele": "05 22 27 26 22",
-      "Fax": "05 22 27 78 87",
+      "fax": "05 22 27 78 87",
       "adress": "N° 24, Rue Savoie, RDC de la Résidence Savoie",
       "city": "CASABLANCA"
     },
@@ -2398,7 +2398,7 @@
       "LName": "LATIFA",
       "name": "Laboratoire LOUALI d'Analyses Médicales",
       "tele": "05 37 67 09 09",
-      "Fax": "05 37 67 09 07",
+      "fax": "05 37 67 09 07",
       "adress": "N° 102, Appt. 10, Avenue Fal Ould Oumeir, Agdal",
       "city": "RABAT"
     },
@@ -2408,7 +2408,7 @@
       "LName": "NOUREDDINE",
       "name": "LABORATOIRE LABOMAC",
       "tele": "0522221495",
-      "Fax": "0522268303",
+      "fax": "0522268303",
       "adress": "40, RUE DU PRINCE My. ABDELLAH",
       "city": "CASABLANCA"
     },
@@ -2418,7 +2418,7 @@
       "LName": "TAOUFIK",
       "name": "EXAMED",
       "tele": "05 22 59 95 95",
-      "Fax": "05 22 59 95 96",
+      "fax": "05 22 59 95 96",
       "adress": "Av. 10 Mars, Place de la Préfecture, Sidi Othmane",
       "city": "CASABLANCA"
     },
@@ -2428,7 +2428,7 @@
       "LName": "ABDELLATIF",
       "name": "Laboratoire SOCRATE d'Analyses Médicales",
       "tele": "05 22 23 36 03 / 34 65 / 95 14 19",
-      "Fax": "05 22 25 85 08",
+      "fax": "05 22 25 85 08",
       "adress": "Magasin 4, Immeuble C, Résidence Masurel, Angle Bd. Yaacoub El Mansour et Rue Socrate",
       "city": "CASABLANCA"
     },
@@ -2438,7 +2438,7 @@
       "LName": "HAMID",
       "name": "Laboratoire de Biologie Médicale DHL LAB",
       "tele": "05 37 37 17 01",
-      "Fax": "05 37 37 85 27",
+      "fax": "05 37 37 85 27",
       "adress": "Angle Bd. Imam Ali et Av. Mly Abdellah",
       "city": "KENITRA"
     },
@@ -2448,7 +2448,7 @@
       "LName": "NOUREDDINE",
       "name": "LAM PALAIS",
       "tele": "0535650330",
-      "Fax": "0535650979",
+      "fax": "0535650979",
       "adress": "N° 8, RUE OMAN, 3EME ETAGE, AGDAL",
       "city": "FES"
     },
@@ -2458,7 +2458,7 @@
       "LName": "HASSAN",
       "name": "LBM BIOLOGICA LARACHE",
       "tele": "05 39 91 23 46 / 47",
-      "Fax": "05 39 91 00 09",
+      "fax": "05 39 91 00 09",
       "adress": "Av. Mohamed Ben Abdellah, N° 1",
       "city": "LARACHE"
     },
@@ -2468,7 +2468,7 @@
       "LName": "SAMIR",
       "name": "Laboratoire MAHFOUD d'Analyses Médicales",
       "tele": "05 28 82 02 10 / 84 81 72",
-      "Fax": "05 28 82 04 51",
+      "fax": "05 28 82 04 51",
       "adress": "Imm Marhaba, Bd. Chaikh Saadi, 29 Février",
       "city": "AGADIR"
     },
@@ -2478,7 +2478,7 @@
       "LName": "MILOUD",
       "name": "Laboratoire MAJDOUBI d'Analyses Médicales",
       "tele": "05 28 86 38 23",
-      "Fax": "05 28 86 38 23",
+      "fax": "05 28 86 38 23",
       "adress": "N° 65, Place El-Mechouar",
       "city": "TIZNIT"
     },
@@ -2488,7 +2488,7 @@
       "LName": "MOSTAPHA",
       "name": "Laboratoire d'Analyses Médicales EL MANZAH",
       "tele": "05 22 23 53 28",
-      "Fax": "05 22 23 35 58",
+      "fax": "05 22 23 35 58",
       "adress": "N° 115, Route d'El Jadida, 2ème Etage, Résidence Bullman, Maârif",
       "city": "CASABLANCA"
     },
@@ -2506,7 +2506,7 @@
       "LName": "NARJISSE SALMA",
       "name": "Laboratoire GUELMIM d'Analyses Médicales",
       "tele": "05 28 87 20 90",
-      "Fax": "05 28 87 20 65",
+      "fax": "05 28 87 20 65",
       "adress": "N° 129, Avenue Mohamed VI",
       "city": "GUELMIM"
     },
@@ -2524,7 +2524,7 @@
       "LName": "MANAR",
       "name": "Laboratoire d'Analyses Médicales IBN ZOHR",
       "tele": "05 37 86 43 13",
-      "Fax": "05 37 86 43 12",
+      "fax": "05 37 86 43 12",
       "adress": "Propriété Dite Yasmina 22, Angle Boulevard MOhamed V et Rue de Lotissement, Tabriquet",
       "city": "SALE"
     },
@@ -2534,7 +2534,7 @@
       "LName": "MARIA",
       "name": "PHARMACIE LABORATOIRE AL WAFAE",
       "tele": "0537631982",
-      "Fax": "0537631982",
+      "fax": "0537631982",
       "adress": "AV AL HAOUZ et rue Ouled Hriz °50  ",
       "city": "RABAT"
     },
@@ -2544,7 +2544,7 @@
       "LName": "BOUCHRA",
       "name": "Laboratoire MOZART d'Aanalyses Médicales",
       "tele": "05 22 36 97 90 / 91 / 92",
-      "Fax": "05 22 36 97 92",
+      "fax": "05 22 36 97 92",
       "adress": "N° 1, Rue Mozart, Résidence le Petit Paradis",
       "city": "CASABLANCA"
     },
@@ -2563,7 +2563,7 @@
       "LName": "ABDERRAHIM",
       "name": "Laboratoire MELLOUKI",
       "tele": "05 37 61 20 30 / 06 78 64 27 82",
-      "Fax": "05 37 61 22 41",
+      "fax": "05 37 61 22 41",
       "adress": "Bd. Tarik Ibn Zyad, Résidence Shemsi, Immeuble G, Appt 2, Fouarate",
       "city": "TEMARA"
     },
@@ -2573,7 +2573,7 @@
       "LName": "AHMED",
       "name": "Laboratoire IMANE",
       "tele": "05 23 37 20 88",
-      "Fax": "05 23 37 20 88",
+      "fax": "05 23 37 20 88",
       "adress": "N°2,av. Annakhil Im.Al Morabit",
       "city": "EL JADIDA"
     },
@@ -2583,7 +2583,7 @@
       "LName": "SAAD",
       "name": "Laboratoire REGRAGUI",
       "tele": "05 22 90 09 67 / 89 28 06",
-      "Fax": "05 22 90 09 27",
+      "fax": "05 22 90 09 27",
       "adress": "Angle Bd. Sidi Abderrahmane et Bd. A. Boutaleb / Route Azemmour, Hay Hassani",
       "city": "CASABLANCA"
     },
@@ -2593,7 +2593,7 @@
       "LName": "HICHAM",
       "name": "Laboratoire de Biologie de LARACHE LBL",
       "tele": "05 39 50 07 44 / 45",
-      "Fax": "05 39 50 07 46",
+      "fax": "05 39 50 07 46",
       "adress": "Angle N° 498, Avenue des F.A.R",
       "city": "LARACHE"
     },
@@ -2603,7 +2603,7 @@
       "LName": "BOUCHRA",
       "name": "Laboratoire AVERROES d'Analyses Médicales",
       "tele": "05 23 40 55 92",
-      "Fax": "05 23 40 55 93",
+      "fax": "05 23 40 55 93",
       "adress": "N° 64, Bd. Med V, Appt. N° 7",
       "city": "SETTAT"
     },
@@ -2613,7 +2613,7 @@
       "LName": "BOUALI",
       "name": "Laboratoire FES d'Analyses Médicales",
       "tele": "05 35 73 20 00",
-      "Fax": "05 35 73 20 00",
+      "fax": "05 35 73 20 00",
       "adress": "Lot. N° 8, Résidence Nour, 2ème Etage, Appt. 11, Boulevard Bir Anzarane, Atlas",
       "city": "FES"
     },
@@ -2623,7 +2623,7 @@
       "LName": "MOHAMMED",
       "name": "Laboratoire MOKHTARI d'Analyses Médicales",
       "tele": "05 36 69 16 91",
-      "Fax": "05 36 71 02 02",
+      "fax": "05 36 71 02 02",
       "adress": "N° 44, Rue El Mourabitine",
       "city": "OUJDA"
     },
@@ -2633,7 +2633,7 @@
       "LName": "AZIZ",
       "name": "EVOLULAB",
       "tele": "05 22 95 03 34",
-      "Fax": "05 22 94 77 45 / 39 96 61",
+      "fax": "05 22 94 77 45 / 39 96 61",
       "adress": "N° 187, Bd. Ibn Sina",
       "city": "CASABLANCA"
     },
@@ -2643,7 +2643,7 @@
       "LName": "LAHSEN",
       "name": "Pharmacie Laboratoire MOUDDI",
       "tele": "0528528591",
-      "Fax": "0528528933",
+      "fax": "0528528933",
       "adress": "Lotissement AZMANI,N°12",
       "city": "OULAD TEIMA"
     },
@@ -2661,7 +2661,7 @@
       "LName": "KAOUTAR",
       "name": "Laboratoire d'Analyses Médicales du PHARE",
       "tele": "05 22 20 32 36",
-      "Fax": "05 22 20 32 86",
+      "fax": "05 22 20 32 86",
       "adress": "Rés. Lalla Khaddouj, N° 72, Av. Dr. Mohamed Sijelmassi",
       "city": "CASABLANCA"
     },
@@ -2680,7 +2680,7 @@
       "LName": "MOHAMED",
       "name": "L.A.M.EL WAHDA",
       "tele": "0537812893",
-      "Fax": "0537800113",
+      "fax": "0537800113",
       "adress": "63. AVENUE HASSAN HAY LINBIAT",
       "city": "SALE"
     },
@@ -2722,7 +2722,7 @@
       "LName": "RACHID",
       "name": "Laboratoire AIN SEBAA d'Analyses Médicales",
       "tele": "05 22 34 27 47",
-      "Fax": "05 22 34 27 47 / 07 65",
+      "fax": "05 22 34 27 47 / 07 65",
       "adress": "Résidence Albadr, Centre Commercial, Immeuble N° 106, Appt. N° 10, Ain Sebaa",
       "city": "CASABLANCA"
     },
@@ -2732,7 +2732,7 @@
       "LName": "RACHIDA",
       "name": "LABORATOIRE SIDI MAKHLOUF",
       "tele": "0539918412",
-      "Fax": "0539918412",
+      "fax": "0539918412",
       "adress": "N°1&3 HAY ESSALAM",
       "city": "KSAR EL KEBIR"
     },
@@ -2742,7 +2742,7 @@
       "LName": "MOHAMMED",
       "name": "Laboratoire IBN NAFISS d'Analyses Médicales",
       "tele": "05 37 67 17 95 / 59 09",
-      "Fax": "05 37 67 17 96",
+      "fax": "05 37 67 17 96",
       "adress": "N° 8, Avenue Ibn Rochd, Agdal",
       "city": "RABAT"
     },
@@ -2752,7 +2752,7 @@
       "LName": "FARID",
       "name": "Laboratoire OSMAN d'Analyses Médicales",
       "tele": "05 22 25 13 29 / 12 22",
-      "Fax": "05 22 25 12 22",
+      "fax": "05 22 25 12 22",
       "adress": "N° 21, Résidence Benomar, Rue Abou Abdakkah Nafii, Maârif",
       "city": "CASABLANCA"
     },
@@ -2762,7 +2762,7 @@
       "LName": "HANANE",
       "name": "Laboratoire SLIMANI d'Analyses Médicales",
       "tele": "05 37 76 64 64 / 65",
-      "Fax": "05 37 76 64 60",
+      "fax": "05 37 76 64 60",
       "adress": "N° 3, Rue Annaba, RDC, Hassan",
       "city": "RABAT"
     },
@@ -2772,7 +2772,7 @@
       "LName": "HANAE",
       "name": "LAM IBN SINA",
       "tele": "05 22 56 91 48",
-      "Fax": "05 22 56 91 82",
+      "fax": "05 22 56 91 82",
       "adress": "N° 576, 1er Etage, Av. Driss Harti, Cité Djmaa, Sidi Othmane",
       "city": "CASABLANCA"
     },
@@ -2782,7 +2782,7 @@
       "LName": "ABDELHAQ",
       "name": "Pharmacie Laboratoire d'Analyses Médicales du SUD",
       "tele": "05 24 88 28 28",
-      "Fax": "05 24 88 40 00",
+      "fax": "05 24 88 40 00",
       "adress": "N° 16, Avenue El Mouahidine, Quartier Bahja",
       "city": "OUARZAZATE"
     },
@@ -2792,7 +2792,7 @@
       "LName": "EL HOUCINE",
       "name": "Laboratoire SALA ALJADIDIA d'Analyses Médicales",
       "tele": "05 37 53 65 09",
-      "Fax": "08 08 32 33 09",
+      "fax": "08 08 32 33 09",
       "adress": "Avenue Abderrahim Bouabid, Centre Commercial Mazagan, Magasins N° 15, 15 et 16. SALA AL JADIDA",
       "city": "SALE"
     },
@@ -2802,7 +2802,7 @@
       "LName": "ALI",
       "name": "Laboratoire CENTRAL d'Analyses de Biologie Médical",
       "tele": "05 23 56 72 16 / 09 80",
-      "Fax": "05 23 56 50 08",
+      "fax": "05 23 56 50 08",
       "adress": "N° 13, Rue Moulay Abderrahmane",
       "city": "KHOURIBGA"
     },
@@ -2812,7 +2812,7 @@
       "LName": "HICHAM",
       "name": "Centre de Biologie de Casablanca CBC",
       "tele": "05 22 27 48 96 / 47 29 46",
-      "Fax": "05 22 27 49 13",
+      "fax": "05 22 27 49 13",
       "adress": "N° 394, Bd. Zerktouni, Rés. Le Casablanca, Bourgogne",
       "city": "CASABLANCA"
     },
@@ -2822,7 +2822,7 @@
       "LName": "FARID",
       "name": "Laboratoire du NORD",
       "tele": "05 39 80 48 96",
-      "Fax": "05 39 80 41 42 new",
+      "fax": "05 39 80 41 42 new",
       "adress": "N° 146, Bd. Med V,  Beni Bouayach",
       "city": "AL HOCEIMA"
     },
@@ -2832,7 +2832,7 @@
       "LName": "OMAR",
       "name": "Laboratoire d'Analyses Médicales ISMAILIA",
       "tele": "05 35 45 29 89",
-      "Fax": "05 35 45 29 89",
+      "fax": "05 35 45 29 89",
       "adress": "Imm.3, N° 2, Av. Ennassr Diour Essalam",
       "city": "MEKNES"
     },
@@ -2842,7 +2842,7 @@
       "LName": "MOHAMED",
       "name": "Pharmacie Laboratoire OULHAJ",
       "tele": "05 35 44 00 64",
-      "Fax": "05 35 44 00 64",
+      "fax": "05 35 44 00 64",
       "adress": "N° 260, Diour Jdad, Rue de Fès",
       "city": "AIN TAOUJDATE"
     },
@@ -2852,7 +2852,7 @@
       "LName": "KHALID",
       "name": "Laboratoire ALLAL EL FASSI d'Analyses Médicales et Biologiques",
       "tele": "05 24 29 19 96",
-      "Fax": "05 24 29 17 86",
+      "fax": "05 24 29 17 86",
       "adress": "Appt. N° 11, Immeuble N° 6, Avenue Allal Al Fassi, Complexe des Habous",
       "city": "MARRAKECH"
     },
@@ -2862,7 +2862,7 @@
       "LName": "EL HASSAN",
       "name": "LAM Dr. RAHMANI",
       "tele": "0536696996",
-      "Fax": "0536688133",
+      "fax": "0536688133",
       "adress": "Bd.ZERKTOUNI(Résidence ZERKTOUNI)",
       "city": "OUJDA"
     },
@@ -2872,7 +2872,7 @@
       "LName": "KARIM",
       "name": "Pharmacie Laboratoire EL FARAH",
       "tele": "05 37 87 35 24",
-      "Fax": "05 37 87 35 24",
+      "fax": "05 37 87 35 24",
       "adress": "N° 927, Sec.E,  Hay Rahma",
       "city": "SALE"
     },
@@ -2890,7 +2890,7 @@
       "LName": "LARBI",
       "name": "LABORATOIRE AL QODS",
       "tele": "0522601865",
-      "Fax": "0522604132",
+      "fax": "0522604132",
       "adress": "158,Bd.DE LA GRANDE CEINTURE  HAY MOHAMADI",
       "city": "CASABLANCA"
     },
@@ -2900,7 +2900,7 @@
       "LName": "MOHAMED",
       "name": "Laboratoire d'Analyses Médicales de l'ATLAS",
       "tele": "05 37 55 99 88 / 33 74",
-      "Fax": "05 37 55 33 74",
+      "fax": "05 37 55 33 74",
       "adress": "N° 142, Av. Mohammed V",
       "city": "KHEMISSET"
     },
@@ -2910,7 +2910,7 @@
       "LName": "MOURAD",
       "name": "Laboratoire MOHAMMED V d'Analyses Médicales et de Diagnostic Biologique",
       "tele": "05 39 93 13 68 / 69",
-      "Fax": "05 39 93 13 69",
+      "fax": "05 39 93 13 69",
       "adress": "N° 9, Av. Moulay Rachid, Val Fleuri (en face de l'Hôpital Mohamed V)",
       "city": "TANGER"
     },
@@ -2928,7 +2928,7 @@
       "LName": "AHMED",
       "name": "Pharmcaie Laboratoire AL MAHATTA",
       "tele": "05 36 60 60 31 / 44 08",
-      "Fax": "05 36 60 44 08 / 05 36 33 18 68",
+      "fax": "05 36 60 44 08 / 05 36 33 18 68",
       "adress": "N° 254, Av. Hassan II",
       "city": "NADOR"
     },
@@ -2938,7 +2938,7 @@
       "LName": "ABDELMAJID",
       "name": "Laboratoire d'Analyses Médicales RIFKOUN",
       "tele": "05 28 84 48 84",
-      "Fax": "05 28 84 48 89",
+      "fax": "05 28 84 48 89",
       "adress": "N° 20, Rue Taraboulous (Q.I)",
       "city": "AGADIR"
     },
@@ -2948,7 +2948,7 @@
       "LName": "ALLAL",
       "name": "Laboratoire CIRAB",
       "tele": "05 22 86 25 50 / 51",
-      "Fax": "05 22 86 25 52",
+      "fax": "05 22 86 25 52",
       "adress": "N° 90, Avenue 2 Mars,",
       "city": "CASABLANCA"
     },
@@ -2958,7 +2958,7 @@
       "LName": "MOHAMED",
       "name": "LABORATOIRE ANFA",
       "tele": "05 22 22 11 62",
-      "Fax": "05 22 22 18 37",
+      "fax": "05 22 22 18 37",
       "adress": "45, BD. d'Anfa",
       "city": "CASABLANCA"
     },
@@ -2968,7 +2968,7 @@
       "LName": "IBTISSAM",
       "name": "Laboratoire SIDI MOUMEN d'Analyses Médicales",
       "tele": "05 22 71 44 44",
-      "Fax": "05 22 71 47 47",
+      "fax": "05 22 71 47 47",
       "adress": "2ème Etage, Appt N° 3, Rue N° 2, Sidi Moumen Jdid 8, Bd. Lalla Asmaa",
       "city": "CASABLANCA"
     },
@@ -2978,7 +2978,7 @@
       "LName": "FAHD",
       "name": "Laboratoire MERS SULTAN",
       "tele": "05 22 22 41 52",
-      "Fax": "05 22 22 41 52",
+      "fax": "05 22 22 41 52",
       "adress": "N° 196, Av. Mers Sultan, N° 32,  5ème Etage",
       "city": "CASABLANCA"
     },
@@ -2988,7 +2988,7 @@
       "LName": "INASS",
       "name": "L.A.M",
       "tele": "05.35.51.72.06",
-      "Fax": "05.35.51.43.74",
+      "fax": "05.35.51.43.74",
       "adress": "11 AV ALLAL BEN ABDELLAH ANGLE RUE ATLAS APPT 2 AU",
       "city": "MEKNES"
     },
@@ -2998,7 +2998,7 @@
       "LName": "NABIL",
       "name": "Laboratoire DU MAGHREB",
       "tele": "05 22 39 51 00 / 31",
-      "Fax": "05 22 39 51 47",
+      "fax": "05 22 39 51 47",
       "adress": "N° 283, Bd. Zerktouni",
       "city": "CASABLANCA"
     },
@@ -3008,7 +3008,7 @@
       "LName": "MOHAMED ANOUAR",
       "name": "Laboratoire NAKHIL d'Analyses Médicales",
       "tele": "05 36 33 08 20 / 21",
-      "Fax": "05 36 33 08 20 / 21",
+      "fax": "05 36 33 08 20 / 21",
       "adress": "Rue Youssef Ben Techfine, Imm.178, 1er Étage, Appt. N° 3",
       "city": "NADOR"
     },
@@ -3018,7 +3018,7 @@
       "LName": "MONCEF",
       "name": "Laboratoire SEKKAT d'Analyses Médicales",
       "tele": "05 39 34 13 13",
-      "Fax": "05 39 34 34 04",
+      "fax": "05 39 34 34 04",
       "adress": "R.D.C, N° 70, Immeuble Universal, Av. de la Résistance (ex Quevedo)",
       "city": "TANGER"
     },
@@ -3028,7 +3028,7 @@
       "LName": "YOUSSEF",
       "name": "Laboratoire d'Analyses Médicales et Biologie de la Reproduction MEDI-LAB",
       "tele": "05 39 32 22 90",
-      "Fax": "05 39 32 25 90",
+      "fax": "05 39 32 25 90",
       "adress": "N° 60, Av. Omar Ibn El Khattab (à Côté de la Wilaya - devant Super Marché Baraka)",
       "city": "TANGER"
     },
@@ -3038,7 +3038,7 @@
       "LName": "MOHAMED YOUSSEF",
       "name": "Pharmacie du PLATEAU Laboratoire SEMLALI d'Analyses Médicales",
       "tele": "05 23 34 08 28 / 37 42",
-      "Fax": "05 23 35 16 99",
+      "fax": "05 23 35 16 99",
       "adress": "N° 138, Avenue Bouchaib Doukkali",
       "city": "EL JADIDA"
     },
@@ -3048,7 +3048,7 @@
       "LName": "HUSSEIN",
       "name": "L.A.M.BOUCHENTOUF",
       "tele": "0522801258",
-      "Fax": "0522801234",
+      "fax": "0522801234",
       "adress": "Place Bouchentouf, Rue 40, N° 48",
       "city": "CASABLANCA"
     },
@@ -3058,7 +3058,7 @@
       "LName": "ATIKA",
       "name": "Laboratoire d'Analyses Médicales",
       "tele": "05 37 73 52 22 / 23",
-      "Fax": "05 37 20 52 79",
+      "fax": "05 37 20 52 79",
       "adress": "Résidence Rida, Imm. G47, Av. Hassan II",
       "city": "RABAT"
     },
@@ -3068,7 +3068,7 @@
       "LName": "ABDELFATTAH",
       "name": "LABORATOIRE SENTISSI",
       "tele": "0522366250",
-      "Fax": "0522396420",
+      "fax": "0522396420",
       "adress": "RES.ROMANDIE 2, TOUR 2 AL RIAD",
       "city": "CASABLANCA"
     },
@@ -3078,7 +3078,7 @@
       "LName": "AMINA",
       "name": "Laboratoire OLLIER d'Analyses Médicales",
       "tele": "05 22 22 99 36 / 49 25 22",
-      "Fax": "05 22 22 99 36",
+      "fax": "05 22 22 99 36",
       "adress": "N° 17, 2ème Etage, Rue Najib Mahfoud - Ex Rue Ollier",
       "city": "CASABLANCA"
     },
@@ -3088,7 +3088,7 @@
       "LName": "SAIF EL ISLAM",
       "name": "Laboratoire SLIMANI d'Analyses Médicales",
       "tele": "05 37 76 64 64 / 65",
-      "Fax": "05 37 76 64 60",
+      "fax": "05 37 76 64 60",
       "adress": "N° 3, Rue Annaba, RDC, Appt. 3, Hassan",
       "city": "RABAT"
     },
@@ -3098,7 +3098,7 @@
       "LName": "MOHAMMED NAOUFEL",
       "name": "LABORATOIRE CENTRAL",
       "tele": "0537781222",
-      "Fax": "0537781233",
+      "fax": "0537781233",
       "adress": "LOTISSEMENT AL KHAYR IMM N°6 APPT N° 4",
       "city": "SALE"
     },
@@ -3108,7 +3108,7 @@
       "LName": "BOUCHRA",
       "name": "Laboratoire GHARNATA",
       "tele": "05 37 28 03 84 / 12 07",
-      "Fax": "05 37 28 03 84",
+      "fax": "05 37 28 03 84",
       "adress": "N° 812, Amal I, Idafi, C.Y.M",
       "city": "RABAT"
     },
@@ -3118,7 +3118,7 @@
       "LName": "HADDOU",
       "name": "Pharmacie Laboratoire d'Analyses Médicales ANDALOUS",
       "tele": "05 39 98 52 33",
-      "Fax": "05 39 98 18 65",
+      "fax": "05 39 98 18 65",
       "adress": "N° 158, Rue Hajrate Nekkor, B.P 74",
       "city": "AL HOCEIMA"
     },
@@ -3128,7 +3128,7 @@
       "LName": "HANANE",
       "name": "Laboratoire CENTRAL d'Analyses Médicales",
       "tele": "05 37 73 03 18",
-      "Fax": "05 37 73 03 17",
+      "fax": "05 37 73 03 17",
       "adress": "N° 21, Angle Rue Amman et Rue Yougouslavie, Résidence Minar, Hassan",
       "city": "RABAT"
     },
@@ -3138,7 +3138,7 @@
       "LName": "OMAR",
       "name": "L.A.M.IBN SINA",
       "tele": "0537558330",
-      "Fax": "0537558330",
+      "fax": "0537558330",
       "adress": "RUE AIT Ouribel N°1 Hay ZIMERMANE",
       "city": "KHEMISSET"
     },
@@ -3148,7 +3148,7 @@
       "LName": "MOUNSSIF",
       "name": "Laboratoire d'Analyses Médicales EL MAADANI",
       "tele": "05 35 51 31 50",
-      "Fax": "05 35 51 31 46",
+      "fax": "05 35 51 31 46",
       "adress": "N° 23, Rue Antsirabé, 2ème Etage, Appt. 6",
       "city": "MEKNES"
     },
@@ -3158,7 +3158,7 @@
       "LName": "MEHDI",
       "name": "Laboratoire d'Analyses Médicales TAHIRI",
       "tele": "05 28 82 35 08",
-      "Fax": "05 28 82 45 29",
+      "fax": "05 28 82 45 29",
       "adress": "Imm. Tamri, Av. Allal Ben Abdallah, Talborjt",
       "city": "AGADIR"
     },
@@ -3168,7 +3168,7 @@
       "LName": "ABDELADIM",
       "name": "Laboratoire BORJ BERNOUSSI",
       "tele": "0522733249",
-      "Fax": "0522757984",
+      "fax": "0522757984",
       "adress": "612, Bd. Souhaib Arroumi, Sidi El Bernoussi",
       "city": "CASABLANCA"
     },
@@ -3178,7 +3178,7 @@
       "LName": "MOHAMED",
       "name": "Pharmacie Laboratoire AL YAKINE d'Analyses Médicales",
       "tele": "05 22 70 00 55 / 56",
-      "Fax": "05 22 71 38 37",
+      "fax": "05 22 71 38 37",
       "adress": "Rés. Al Yakine Imm. GH 4, N° 01/02, TO13, Sidi Moumen",
       "city": "CASABLANCA"
     },
@@ -3188,7 +3188,7 @@
       "LName": "AMAL",
       "name": "POLYBIO Laboratoire d'Analyses Médicales",
       "tele": "05 22 86 01 90 / 07 84",
-      "Fax": "05 22 86 07 84",
+      "fax": "05 22 86 07 84",
       "adress": "N° 120, Bd. Moulay Idriss 1er, Quartier des Hôpitaux",
       "city": "CASABLANCA"
     },
@@ -3198,7 +3198,7 @@
       "LName": "AZZEDDINE",
       "name": "Laboratoire Général d'Analyses Médicales et de Fertilié LABOGAMMA",
       "tele": "05 22 61 85 39",
-      "Fax": "05 22 62 15 94",
+      "fax": "05 22 62 15 94",
       "adress": "N° 186, Av. C, Hay Mohammadi",
       "city": "CASABLANCA"
     },
@@ -3208,7 +3208,7 @@
       "LName": "YASSINE",
       "name": "Laboratoire IMMCELL d'Analyses Médicales",
       "tele": "05 37 67 42 72",
-      "Fax": "05 37 67 42 72",
+      "fax": "05 37 67 42 72",
       "adress": "N° 55, Avenue Ibn Sina, Agdal",
       "city": "RABAT"
     },
@@ -3218,7 +3218,7 @@
       "LName": "AICHA",
       "name": "Laboratoire d'Analyses Médicales AL FARABI",
       "tele": "05 37 73 04 51 / 73 26 75",
-      "Fax": "05 37 73 85 92",
+      "fax": "05 37 73 85 92",
       "adress": "N° 14, Angle Av. d'Alger et Rue Qairaouane, 2ème Et. Appt 4",
       "city": "RABAT"
     },
@@ -3228,7 +3228,7 @@
       "LName": "MOHAMED",
       "name": "Laboratoire TAZI",
       "tele": "05 22 27 28 08 / 47 35 79",
-      "Fax": "05 22 29 64 86",
+      "fax": "05 22 29 64 86",
       "adress": "N° 78, Rue d'Alger (en face du Consulat de l'Espagne)",
       "city": "CASABLANCA"
     },
@@ -3238,7 +3238,7 @@
       "LName": "ABDERRAHIM",
       "name": "Laboratoire d'Analyses Médicales EVOLAB",
       "tele": "05 22 24 75 17 / 06 61 09 69 70",
-      "Fax": "05 22 24 74 36",
+      "fax": "05 22 24 74 36",
       "adress": "N° 388, Avenue Ambassadeur Ben Aicha (Roches Noires)",
       "city": "CASABLANCA"
     },
@@ -3248,7 +3248,7 @@
       "LName": "KARIM",
       "name": "Laboratoire TAZI",
       "tele": "05 22 27 28 08 / 47 35 79",
-      "Fax": "05 22 29 64 86",
+      "fax": "05 22 29 64 86",
       "adress": "N° 78, Avenue d'Alger",
       "city": "CASABLANCA"
     },
@@ -3258,7 +3258,7 @@
       "LName": "NISSRINE",
       "name": "Laboratoire SAADA d'Analyses Médicales",
       "tele": "05 37 36 88 88",
-      "Fax": "05 37 37 29 77",
+      "fax": "05 37 37 29 77",
       "adress": "Angle Boulevard Mohamed V et Avenue Mohamed Diouri, N° 427,  1er Etage, Appartements 5 et 9",
       "city": "KENITRA"
     },
@@ -3268,7 +3268,7 @@
       "LName": "ABDELHAMID",
       "name": "Pharmacie Laboratoire EL HARTI de Biologie Médicale",
       "tele": "05 24 43 40 36",
-      "Fax": "05 24 43 90 47",
+      "fax": "05 24 43 90 47",
       "adress": "Angle Rue Yaacoub El Marini et Oued El Makhazine, Place 16 Novembre, Guéliz",
       "city": "MARRAKECH"
     },
@@ -3278,7 +3278,7 @@
       "LName": "ABDERRAHMAN",
       "name": "Laboratoire d'Applications Scientifiques LAS-COUDON",
       "tele": "05 22 20 03 37 / 69 02 / 27 64 84 / 99 72",
-      "Fax": "05 22 27 35 61",
+      "fax": "05 22 27 35 61",
       "adress": "N° 11 et 13, Rue Houcine Ben Ali (ex Murdoch)",
       "city": "CASABLANCA"
     },
@@ -3288,7 +3288,7 @@
       "LName": "MOHAMED",
       "name": "LABORATOIRE DERB SULTAN",
       "tele": "0522815936",
-      "Fax": "0522815940",
+      "fax": "0522815940",
       "adress": "425 Bd; Mohamed VI",
       "city": "CASABLANCA"
     },
@@ -3298,7 +3298,7 @@
       "LName": "YASMINE",
       "name": "Laboratoire d'Applications Scientifiques LAS-COUDON",
       "tele": "05 22 20 03 37 / 69 02 / 27 64 84 / 99 72",
-      "Fax": "05 22 27 35 61",
+      "fax": "05 22 27 35 61",
       "adress": "N° 11 et 13, Rue Houcine Ben Ali (ex Murdoch)",
       "city": "CASABLANCA"
     },
@@ -3308,7 +3308,7 @@
       "LName": "JAOUAD",
       "name": "Laboratoire TOUZANI d'Analyses Médicales",
       "tele": "05 22 86 50 00 / 01",
-      "Fax": "05 22 86 50 20",
+      "fax": "05 22 86 50 20",
       "adress": "N° 18, Rue Lavoisier, Quartier des Hôpitaux (en face de l'Hôpital 20 Août)",
       "city": "CASABLANCA"
     },
@@ -3318,7 +3318,7 @@
       "LName": "OTMANE",
       "name": "Laboratoire TOUZANI d'Analyses Médicales",
       "tele": "05 37 61 82 27 / 28",
-      "Fax": "05 37 61 82 28",
+      "fax": "05 37 61 82 28",
       "adress": "Lot. N° 8, Secteur 5, Avenue Moulay Ali Chérif, Oulad Bennasser, Massira 1",
       "city": "TEMARA"
     },
@@ -3328,7 +3328,7 @@
       "LName": "MINA",
       "name": "Laboratoire d'Analyses Médicales AL FATH",
       "tele": "05 35 93 00 56",
-      "Fax": "05 35 93 00 56",
+      "fax": "05 35 93 00 56",
       "adress": "Imm. Belghazi, 2ème Etage, Bd. Abdelali Benchekroun, en face de Rés. Chahmi",
       "city": "FES"
     },
@@ -3338,7 +3338,7 @@
       "LName": "AOUATIF",
       "name": "SANTE-LAB",
       "tele": "05 37 76 01 48",
-      "Fax": "05 37 76 17 76",
+      "fax": "05 37 76 17 76",
       "adress": "N° 73, Rue Patrice Lumumba, Rés. de Rabat, 2ème Etage, Appt. N° 4",
       "city": "RABAT"
     },
@@ -3348,7 +3348,7 @@
       "LName": "MUSTAPHA",
       "name": "Laboratoire SAAD-EDDINE d'Analyse Médicale",
       "tele": "05 23 47 37 82",
-      "Fax": "05 23 47 37 65",
+      "fax": "05 23 47 37 65",
       "adress": "Hay Najat, Rue Khouribga, Av. des FAR",
       "city": "SOUK SEBT OULAD NEMMA"
     },
@@ -3367,7 +3367,7 @@
       "LName": "SOUAD",
       "name": "Laboratoire GALILEE D'Analyses Médicales",
       "tele": "05 22 20 47 11 / 46 92 / 29 79 30",
-      "Fax": "05 22 29 79 31",
+      "fax": "05 22 29 79 31",
       "adress": "N° 29, Rue Taha Houcine (Ex-Galilée), Angle Moussa Ibnou Noussair Gauthier",
       "city": "CASABLANCA"
     },
@@ -3377,7 +3377,7 @@
       "LName": "IBTISSAM",
       "name": "Laboratoire AIN TAOUJDATE d'Analyses Médicales",
       "tele": "05 35 44 03 01",
-      "Fax": "05 35 44 03 01",
+      "fax": "05 35 44 03 01",
       "adress": "N° 191, Dior Jdad, Hay Rachad, Rue Allal Ben Abdellah, 1er Etage",
       "city": "AIN TAOUJDATE"
     },
@@ -3387,7 +3387,7 @@
       "LName": "BOUZIANE",
       "name": "EL QODS",
       "tele": "05 36 69 48 34 / 45 10",
-      "Fax": "05 36 69 54 76",
+      "fax": "05 36 69 54 76",
       "adress": "N° 83, Boulevard My Abdellah",
       "city": "TAOURIRT"
     },
@@ -3406,7 +3406,7 @@
       "LName": "HAMMOU HAMID",
       "name": "Pharmacie Laboratoire LABONORD",
       "tele": "053 9 94 25 87 / 27 82",
-      "Fax": "05 39 94 20 49",
+      "fax": "05 39 94 20 49",
       "adress": "N° 67/69, Rue de Fès",
       "city": "TANGER"
     },
@@ -3416,7 +3416,7 @@
       "LName": "NASSIF",
       "name": "Laboratoire d'Analyses Médicales AL MANAR",
       "tele": "05 24 31 12 82",
-      "Fax": "05 24 31 16 80",
+      "fax": "05 24 31 16 80",
       "adress": "Lotissement Boumessmar, Lot. N° 9, Quartier Chifa Amerchich",
       "city": "MARRAKECH"
     },
@@ -3426,7 +3426,7 @@
       "LName": "KAMAL",
       "name": "Laboratoire TAZA d'Analyses Médicales",
       "tele": "05 35 28 56 78",
-      "Fax": "05 35 28 56 78",
+      "fax": "05 35 28 56 78",
       "adress": "N° 78, Résidence Al Firdaous, N° 4, Bd. Med V",
       "city": "TAZA"
     },
@@ -3445,7 +3445,7 @@
       "LName": "JAMAL-EDDINE",
       "name": "Laboratoire d'Analyses Médicales ZITOUNE",
       "tele": "05 37 71 19 91",
-      "Fax": "05 37 71 19 81",
+      "fax": "05 37 71 19 81",
       "adress": "Av. Al Arz, Rue Al Karm, Hay Ryad (près de Mahaj Ryad),  N° 6",
       "city": "RABAT"
     },
@@ -3455,7 +3455,7 @@
       "LName": "ABDELHAFID",
       "name": "Laboratoire ZIZI d'Analyses Médicales",
       "tele": "05 22 36 87 49 / 54",
-      "Fax": "05 22 36 87 54",
+      "fax": "05 22 36 87 54",
       "adress": "N° 5, Avenue du Docteur Mohamed Sijelmassi ( ex. Avenue du Phare), Résidence Kenz, Racine extension, Bourgogne",
       "city": "CASABLANCA"
     },
@@ -3465,7 +3465,7 @@
       "LName": "ABDERRAZAK",
       "name": "Laboratoire d'Analyses Médicales MAARIF",
       "tele": "05 22 23 35 61",
-      "Fax": "05 22 23 50 55",
+      "fax": "05 22 23 50 55",
       "adress": "N° 400, Bd. Brahim Roudani",
       "city": "CASABLANCA"
     },
@@ -3475,7 +3475,7 @@
       "LName": "ZINEB",
       "name": "Laboratoire AGDAL",
       "tele": "05 37 67 36 75",
-      "Fax": "05 37 67 33 82",
+      "fax": "05 37 67 33 82",
       "adress": "N° 49, Av. Al Atlas, Appt. 6, 1er Etage",
       "city": "RABAT"
     },
@@ -3493,7 +3493,7 @@
       "LName": "MIRIAM",
       "name": "Pharmacie Laboratoire BELKHAYAT d'Analyses Médicales",
       "tele": "05 24 34 98 79 / 08 91",
-      "Fax": "05 24 49 44 30",
+      "fax": "05 24 49 44 30",
       "adress": "N° 580 C, Hay Al Massira I",
       "city": "MARRAKECH"
     },
@@ -3503,7 +3503,7 @@
       "LName": "MUSTAPHA",
       "name": "PHAR.LABO ZOUHAIR",
       "tele": "05 35 56 35 05 / 17 44",
-      "Fax": "05 35 56 17 44",
+      "fax": "05 35 56 17 44",
       "adress": "Ajellab route de Midelt",
       "city": "AZROU"
     },
@@ -3513,7 +3513,7 @@
       "LName": "ABDALLAH",
       "name": "laboratoire TENSIFT",
       "tele": "05 24 43 17 88",
-      "Fax": "05 24 43 89 28",
+      "fax": "05 24 43 89 28",
       "adress": "QUARTIER EL GHOUL route de TARGA",
       "city": "MARRAKECH"
     }

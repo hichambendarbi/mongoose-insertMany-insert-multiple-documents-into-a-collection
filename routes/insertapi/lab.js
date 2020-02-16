@@ -19,28 +19,22 @@ route.post("/", async (req, res) => {
       nameL = nameL.replace("LABORATOIRE", " ");
       nameL = nameL.replace("Pharmacie", " ");
       nameL = nameL.trim();
+
       newLab = new Lab({
         identification: {
           name: nameL
         },
         contact: {
           teles: {
-            fix: {
-              fix1: dbLabs[i].tele,
-              fix2: dbLabs[i].tele
-            },
-            mobile: {
-              mobile1: dbLabs[i].tele,
-              mobile2: dbLabs[i].tele
-            },
-            faxe: {
-              faxe1: dbLabs[i].fax,
-              faxe2: dbLabs[i].fax
-            }
+            fix: dbLabs[i].Fix,
+            fax: dbLabs[i].fax
           },
-
-          city: dbLabs[i].city,
-          adress: dbLabs[i].adress
+          adress: {
+            region: "",
+            province: "",
+            commune: "",
+            street: dbLabs[i].address
+          }
         }
       });
 

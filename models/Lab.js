@@ -15,45 +15,22 @@ const LabSchema = new mongoose.Schema({
   },
   contact: {
     teles: {
-      fix: [
-        {
-          fix1: {
-            type: String
-          },
-          fix2: {
-            type: String
-          }
-        }
-      ],
-      mobile: [
-        {
-          mobile1: {
-            type: String
-          },
-          mobile2: {
-            type: String
-          }
-        }
-      ],
-      faxe: [
-        {
-          faxe1: {
-            type: String
-          },
-          faxe2: {
-            type: String
-          }
-        }
-      ]
+      fix: [],
+      fax: []
     },
     adress: {
-      type: String
-    },
-    city: {
-      type: String
-    },
-    fax: {
-      type: String
+      region: {
+        type: String
+      },
+      province: {
+        type: String
+      },
+      commune: {
+        type: String
+      },
+      street: {
+        type: String
+      }
     }
   }
 });
